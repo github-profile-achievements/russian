@@ -43,10 +43,10 @@
 
 <br>
 
-| Название ачивки | 👋                             | 👋🏻                                 | 👋🏼                                                | 👋🏽                                    | 👋🏾                                              | 👋🏿                                |
-|-----------------|--------------------------------|--------------------------------------|-----------------------------------------------------|-----------------------------------------|---------------------------------------------------|-------------------------------------|
-| Quickdraw       | ![][starstruck-default =10x10] | ![starstruck-light][starstruck-light] | ![starstruck-light-medium][starstruck-light-medium] | ![starstruck-medium][starstruck-medium] | ![starstruck-medium-dark][starstruck-medium-dark] | ![starstruck-dark][starstruck-dark] |
-| Quickdraw       | ![][quickdraw-default]         | ![quickdraw-light][quickdraw-light]  | ![quickdraw-light-medium][quickdraw-light-medium]   | ![quickdraw-medium][quickdraw-medium]   | ![quickdraw-medium-dark][quickdraw-medium-dark]   | ![quickdraw-dark][quickdraw-dark]   |
+| Название ачивки | 👋                      | 👋🏻                  | 👋🏼                         | 👋🏽                   | 👋🏾                        | 👋🏿                 |
+|-----------------|-------------------------|-----------------------|------------------------------|------------------------|-----------------------------|----------------------|
+| Starstruck      | ![][starstruck-default] | ![][starstruck-light] | ![][starstruck-light-medium] | ![][starstruck-medium] | ![][starstruck-medium-dark] | ![][starstruck-dark] |
+| Quickdraw       | ![][quickdraw-default]  | ![][quickdraw-light]  | ![][quickdraw-light-medium]  | ![][quickdraw-medium]  | ![][quickdraw-medium-dark]  | ![][quickdraw-dark]  |
 
 [starstruck-default]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
 [starstruck-light]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png
