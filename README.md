@@ -1,4 +1,4 @@
-# 🏆 Полный список значков (ачивок, достижений) в профиле GitHub
+# Полный список значков (ачивок, достижений) в профиле GitHub 🏆
 
 #### Отображение достижений в вашем профиле совершенно необязательно; по умолчанию их может видеть любой, кто просматривает ваш общедоступный профиль.
 
@@ -22,7 +22,7 @@
 
 <br>
 
-# ✨ Другие значки на GitHub
+# Другие значки на GitHub
 
 | Badge                                                                                                                                                                                                                                                                                                                    | Name                       | How to get                                                                                                                        |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -35,14 +35,46 @@
 
 <br>
 
-## Необходимое количество
+## Градация некоторых достижений (значков)
 
 Для получения большинства значков необходимо произвести некоторое действие однократно, но в ряде случаем действие необходимо произвести несколько раз.
 
+| Достижение          | По-умолчанию    | Бронзовый        | Серебряный        | Золотой            |
+|---------------------|-----------------|------------------|-------------------|--------------------|
+| Starstruck          | ![][ss-default] | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       |
+|                     | 16 звёзд        | 128 звёзд        | 512 звёзд         | 4096 звёзд         |
+| Pair Extraordinaire | ![][pe-default] | ![][pe-bronze]   | ![][pe-silver]    | ![][pe-gold]       |
+|                     | 1 pull requests | 10 pull requests | 24 pull requests  | 48 pull requests   |
+| Pull Shark          | ![][ps-default] | ![][ps-bronze]   | ![][ps-silver]    | ![][ps-gold]       |
+|                     | 2 pull requests | 16 pull requests | 128 pull requests | 1024 pull requests |
+| Galaxy Brain        | ![][gb-default] | ![][gb-bronze]   | ![][gb-silver]    | ![][gb-gold]       |
+|                     | 2 ответов       | 8 ответов        | 16 ответов        | 32 ответов         |
+
+[ss-default]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
+[ss-bronze]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png
+[ss-silver]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png
+[ss-gold]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png
+
+[pe-default]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png
+[pe-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png
+[pe-silver]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png
+[pe-gold]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png
+
+[ps-default]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png
+[ps-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png
+[ps-silver]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png
+[ps-gold]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png
+
+[gb-default]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png
+[gb-bronze]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png
+[gb-silver]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png
+[gb-gold]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png
+
+Все остальные значки на GitHub даются за однократное выполнение условий.
 
 <br>
 
-# 👋 Цвет кожи значков
+## Цвет кожи значков
 
 Внешний вид некоторых значков зависит от предпочитаемого вами тона кожи Emoji.
 
@@ -71,7 +103,7 @@
 
 <br>
 
-## Другие репозитории на GitHub со список значков
+## Репозитории на GitHub со списками достижений
 
 - https://github.com/Schweinepriester/github-profile-achievements
 - https://github.com/drknzz/GitHub-Achievements
