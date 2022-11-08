@@ -87,12 +87,12 @@
 | Starstruck      | ![][starstruck-default] | ![][starstruck-light] | ![][starstruck-light-medium] | ![][starstruck-medium] | ![][starstruck-medium-dark] | ![][starstruck-dark] |
 | Quickdraw       | ![][quickdraw-default]  | ![][quickdraw-light]  | ![][quickdraw-light-medium]  | ![][quickdraw-medium]  | ![][quickdraw-medium-dark]  | ![][quickdraw-dark]  |
 
-[starstruck-default]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
-[starstruck-light]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png
-[starstruck-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light-medium.png
-[starstruck-medium]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium.png
-[starstruck-medium-dark]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium-dark.png
-[starstruck-dark]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--dark.png
+[starstruck-default]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
+[starstruck-light]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png
+[starstruck-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png
+[starstruck-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png
+[starstruck-medium-dark]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png
+[starstruck-dark]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png
 
 [quickdraw-default]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
 [quickdraw-light]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png
