@@ -39,16 +39,16 @@
 
 Для получения большинства значков необходимо произвести некоторое действие однократно, но в ряде случаем действие необходимо произвести несколько раз.
 
-| Достижение          | По-умолчанию    | Бронзовый        | Серебряный        | Золотой            |
-|---------------------|-----------------|------------------|-------------------|--------------------|
-| Starstruck          | ![][ss-default] | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       |
-|                     | 16 звёзд        | 128 звёзд        | 512 звёзд         | 4096 звёзд         |
-| Pair Extraordinaire | ![][pe-default] | ![][pe-bronze]   | ![][pe-silver]    | ![][pe-gold]       |
-|                     | 1 pull requests | 10 pull requests | 24 pull requests  | 48 pull requests   |
-| Pull Shark          | ![][ps-default] | ![][ps-bronze]   | ![][ps-silver]    | ![][ps-gold]       |
-|                     | 2 pull requests | 16 pull requests | 128 pull requests | 1024 pull requests |
-| Galaxy Brain        | ![][gb-default] | ![][gb-bronze]   | ![][gb-silver]    | ![][gb-gold]       |
-|                     | 2 ответов       | 8 ответов        | 16 ответов        | 32 ответов         |
+| Достижение              | По-умолчанию    | Бронзовый        | Серебряный        | Золотой            |
+|-------------------------|-----------------|------------------|-------------------|--------------------|
+| **Starstruck**          | ![][ss-default] | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       |
+|                         | 16 звёзд        | 128 звёзд        | 512 звёзд         | 4096 звёзд         |
+| **Pair Extraordinaire** | ![][pe-default] | ![][pe-bronze]   | ![][pe-silver]    | ![][pe-gold]       |
+|                         | 1 pull requests | 10 pull requests | 24 pull requests  | 48 pull requests   |
+| **Pull Shark**          | ![][ps-default] | ![][ps-bronze]   | ![][ps-silver]    | ![][ps-gold]       |
+|                         | 2 pull requests | 16 pull requests | 128 pull requests | 1024 pull requests |
+| **Galaxy Brain**        | ![][gb-default] | ![][gb-bronze]   | ![][gb-silver]    | ![][gb-gold]       |
+|                         | 2 ответов       | 8 ответов        | 16 ответов        | 32 ответов         |
 
 [ss-default]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
 [ss-bronze]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png
@@ -82,7 +82,7 @@
 
 <br>
 
-| Название ачивки     | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
+| **Название ачивки** | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
 | ------------------- | -------------- | ------------ | ------------------- | ------------- | ------------------ | ----------- |
 | **Starstruck**      | ![][s-default] | ![][s-light] | ![][s-light-medium] | ![][s-medium] | ![][s-medium-dark] | ![][s-dark] |
 | **Quickdraw**       | ![][q-default] | ![][q-light] | ![][q-light-medium] | ![][q-medium] | ![][q-medium-dark] | ![][q-dark] |
