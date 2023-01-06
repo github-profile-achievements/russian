@@ -44,14 +44,14 @@
 
 | **Цвет**          | Описание            |
 |-------------------|---------------------|
-| ![][ss-default | width=93] | *По-умолчанию* Starstruck даётся за **16 звёзд** |
+| ![][ss-default =93] | *По-умолчанию* Starstruck даётся за **16 звёзд** |
 | ![][ss-bronze] | *Бронзовый* Starstruck даётся за **128 звёзд**  |
 | ![][ss-silver] | *Серебряный* Starstruck даётся за **512 звёзд** |
 | ![][ss-gold]   | *Золотой* Starstruck даётся за **4096 звёзд**   |
 
 | **Достижение**          | По-умолчанию    | Бронзовый        | Серебряный        | Золотой            |
 |-------------------------|-----------------|------------------|-------------------|--------------------|
-| **Starstruck**          | ![][ss-default | width=93] | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold] |
+| **Starstruck**          | ![][ss-default] | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold] |
 |                         | 16 звёзд        | 128 звёзд        | 512 звёзд         | 4096 звёзд         |
 | **Pair Extraordinaire** | ![][pe-default] | ![][pe-bronze]   | ![][pe-silver]    | ![][pe-gold]       |
 |                         | 1 pull requests | 10 pull requests | 24 pull requests  | 48 pull requests   |
