@@ -53,16 +53,16 @@
 |   | ![][ss-gold]   | Золотой | 4096 звёзд | Пример автора |
 
 
-| **Достижение**          | По-умолчанию    | Бронзовый        | Серебряный        | Золотой            |
-|-------------------------| :-------------: | :--------------: | :---------------: | :----------------: |
-| **Starstruck**          | ![][ss-default] | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       |
-|                         | 16 звёзд        | 128 звёзд        | 512 звёзд         | 4096 звёзд         |
-| **Pair Extraordinaire** | ![][pe-default] | ![][pe-bronze]   | ![][pe-silver]    | ![][pe-gold]       |
-|                         | 1 pull requests | 10 pull requests | 24 pull requests  | 48 pull requests   |
-| **Pull Shark**          | ![][ps-default] | ![][ps-bronze]   | ![][ps-silver]    | ![][ps-gold]       |
-|                         | 2 pull requests | 16 pull requests | 128 pull requests | 1024 pull requests |
-| **Galaxy Brain**        | ![][gb-default] | ![][gb-bronze]   | ![][gb-silver]    | ![][gb-gold]       |
-|                         | 2 ответов       | 8 ответов        | 16 ответов        | 32 ответов         |
+| **Достижение**          | По-умолчанию    | Бронзовый        | Серебряный        | Золотой            | 100 % samples |
+|-------------------------| :-------------: | :--------------: | :---------------: | :----------------: | --- |
+| **Starstruck**          | ![][ss-default] | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       | [@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
+|                         | 16 звёзд        | 128 звёзд        | 512 звёзд         | 4096 звёзд         |      |
+| **Pair Extraordinaire** | ![][pe-default] | ![][pe-bronze]   | ![][pe-silver]    | ![][pe-gold]       | TODO |
+|                         | 1 pull requests | 10 pull requests | 24 pull requests  | 48 pull requests   |      |
+| **Pull Shark**          | ![][ps-default] | ![][ps-bronze]   | ![][ps-silver]    | ![][ps-gold]       | TODO |
+|                         | 2 pull requests | 16 pull requests | 128 pull requests | 1024 pull requests |      |
+| **Galaxy Brain**        | ![][gb-default] | ![][gb-bronze]   | ![][gb-silver]    | ![][gb-gold]       | TODO |
+|                         | 2 ответов       | 8 ответов        | 16 ответов        | 32 ответов         |      |
 
 [ss-default]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
 [ss-bronze]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png
