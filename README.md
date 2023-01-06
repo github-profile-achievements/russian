@@ -46,25 +46,23 @@
 
 | **Достижение**          | 2    | 3        | 4        | Пример автора            |
 |-------------------------| :-------------: | :--------------: | :---------------: | :----------------: |
-| **Starstruck**          | ![][ss-default] | По-умолчанию | 16 звёзд | Пример автора |
 | <img style="width:93px" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"> | Бронзовый | 128 звёзд | Пример автора |   |
 |   | <div style="width:93px">![][ss-bronze]</div> | Бронзовый | 128 звёзд | Пример автора |
 |   | ![][ss-silver] | Серебряный | 512 звёзд | Пример автора |
 |   | ![][ss-gold]   | Золотой | 4096 звёзд | Пример автора |
 
 
-| **Достижение**          | <nobr>По-умолчанию</nobr> | Бронзовый        | Серебряный        | Золотой            | <nobr>100% samples</nobr> |
+| **Достижение** | <nobr>По-умолчанию</nobr> | Бронзовый        | Серебряный        | Золотой            | <nobr>100% samples</nobr> |
 |-------------------------| :-------------: | :--------------: | :---------------: | :----------------: | --- |
-| **Starstruck**          | ![][ss-default] | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       | [@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
+| **Starstruck**          | <img alt="Достижение Starstruck (по-умолчанию)" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" style="width:93px"> | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       | [@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
 |                         | 16 звёзд        | 128 звёзд        | 512 звёзд         | 4096 звёзд         |      |
-| **Pair Extraordinaire** | ![][pe-default] | ![][pe-bronze]   | ![][pe-silver]    | ![][pe-gold]       | TODO |
+| <nobr>**Pair Extraordinaire**</nobr> | ![][pe-default] | ![][pe-bronze] | ![][pe-silver] | ![][pe-gold] | TODO |
 |                         | 1 pull requests | 10 pull requests | 24 pull requests  | 48 pull requests   |      |
 | **Pull Shark**          | ![][ps-default] | ![][ps-bronze]   | ![][ps-silver]    | ![][ps-gold]       | TODO |
 |                         | 2 pull requests | 16 pull requests | 128 pull requests | 1024 pull requests |      |
 | **Galaxy Brain**        | ![][gb-default] | ![][gb-bronze]   | ![][gb-silver]    | ![][gb-gold]       | TODO |
 |                         | 2 ответов       | 8 ответов        | 16 ответов        | 32 ответов         |      |
 
-[ss-default]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
 [ss-bronze]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png
 [ss-silver]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png
 [ss-gold]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png
