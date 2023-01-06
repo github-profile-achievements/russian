@@ -82,36 +82,28 @@
 
 <br>
 
-| Название ачивки | 👋                      | 👋🏻                  | 👋🏼                         | 👋🏽                   | 👋🏾                        | 👋🏿                 |
-|-----------------|-------------------------|-----------------------|------------------------------|------------------------|-----------------------------|----------------------|
-| Starstruck      | ![][starstruck-default] | ![][starstruck-light] | ![][starstruck-light-medium] | ![][starstruck-medium] | ![][starstruck-medium-dark] | ![][starstruck-dark] |
-| Quickdraw       | ![][quickdraw-default]  | ![][quickdraw-light]  | ![][quickdraw-light-medium]  | ![][quickdraw-medium]  | ![][quickdraw-medium-dark]  | ![][quickdraw-dark]  |
+| Название ачивки     | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
+| ------------------- | -------------- | ------------ | ------------------- | ------------- | ------------------ | ----------- |
+| **Starstruck**      | ![][s-default] | ![][s-light] | ![][s-light-medium] | ![][s-medium] | ![][s-medium-dark] | ![][s-dark] |
+| **Quickdraw**       | ![][q-default] | ![][q-light] | ![][q-light-medium] | ![][q-medium] | ![][q-medium-dark] | ![][q-dark] |
 
-[starstruck-default]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
-[starstruck-light]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png
-[starstruck-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png
-[starstruck-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png
-[starstruck-medium-dark]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png
-[starstruck-dark]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png
+[s-default]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
+[s-light]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png
+[s-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png
+[s-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png
+[s-medium-dark]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png
+[s-dark]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png
 
-[quickdraw-default]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
-[quickdraw-light]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png
-[quickdraw-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light-medium.png
-[quickdraw-medium]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium.png
-[quickdraw-medium-dark]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium-dark.png
-[quickdraw-dark]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--dark.png
+[q-default]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
+[q-light]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png
+[q-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light-medium.png
+[q-medium]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium.png
+[q-medium-dark]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium-dark.png
+[q-dark]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--dark.png
 
 <br>
 
-## Репозитории на GitHub со списками достижений
+## Другие репозитории со списками достижений
 
-- https://github.com/Schweinepriester/github-profile-achievements
-- https://github.com/drknzz/GitHub-Achievements
-
-
-<!--
-github значки 66
-github ачивки 42
-github бейджи 36
-github достижения 30
--->
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
+- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
