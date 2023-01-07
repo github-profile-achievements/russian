@@ -1,4 +1,4 @@
-# Полный список значков (ачивок, достижений) в профиле GitHub 🏆
+# Полный список значков (ачивок, достижений) в профиле GitHub
 
 #### Отображение достижений в вашем профиле совершенно необязательно; по умолчанию их может видеть любой, кто просматривает ваш общедоступный профиль.
 
@@ -40,21 +40,13 @@
 
 <br>
 
-## Градация некоторых достижений (значков)
+## Градация некоторых достижений
 
 Для получения большинства значков необходимо произвести некоторое действие однократно, но в ряде случаем действие необходимо произвести несколько раз.
 
-| **Достижение**          | 2    | 3        | 4        | Пример автора            |
-|-------------------------| :-------------: | :--------------: | :---------------: | :----------------: |
-| <img style="width:93px" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"> | Бронзовый | 128 звёзд | Пример автора |   |
-|   | <div style="width:93px">![][ss-bronze]</div> | Бронзовый | 128 звёзд | Пример автора |
-|   | ![][ss-silver] | Серебряный | 512 звёзд | Пример автора |
-|   | ![][ss-gold]   | Золотой | 4096 звёзд | Пример автора |
-
-
-| **Достижение** | <nobr>По-умолчанию</nobr> | Бронзовый        | Серебряный        | Золотой            | <nobr>100% samples</nobr> |
-|-------------------------| :-------------: | :--------------: | :---------------: | :----------------: | --- |
-| **Starstruck**          | <img alt="Достижение Starstruck (по-умолчанию)" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" style="width:93px"> | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       | [@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
+| **Достижение** | <nobr>По-умолчанию</nobr> | Бронзовый | Серебряный | Золотой | <nobr>100% samples</nobr> |
+| --- | :---: | :---: | :---: | :---: | --- |
+| **Starstruck** | <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Достижение Starstruck (по-умолчанию)" style="width:80px"> | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       | [@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
 |                         | 16 звёзд        | 128 звёзд        | 512 звёзд         | 4096 звёзд         |      |
 | <nobr>**Pair Extraordinaire**</nobr> | ![][pe-default] | ![][pe-bronze] | ![][pe-silver] | ![][pe-gold] | TODO |
 |                         | 1 pull requests | 10 pull requests | 24 pull requests  | 48 pull requests   |      |
@@ -95,11 +87,10 @@
 <br>
 
 | **Название ачивки** | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
-| ------------------- | -------------- | ------------ | ------------------- | ------------- | ------------------ | ----------- |
-| **Starstruck**      | ![][s-default] | ![][s-light] | ![][s-light-medium] | ![][s-medium] | ![][s-medium-dark] | ![][s-dark] |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Starstruck** | <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Тон достижения Starstruck по-умолчанию" style="width:80px"> | ![][s-light] | ![][s-light-medium] | ![][s-medium] | ![][s-medium-dark] | ![][s-dark] |
 | **Quickdraw**       | ![][q-default] | ![][q-light] | ![][q-light-medium] | ![][q-medium] | ![][q-medium-dark] | ![][q-dark] |
 
-[s-default]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
 [s-light]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png
 [s-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png
 [s-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png
