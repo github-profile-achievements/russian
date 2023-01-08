@@ -8,7 +8,7 @@
 
 | Значок | Название | Как получить? |
 | :---: | --- | --- |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="GitHub-бейджик за достижение Starstruck" style="width:120px"> | **Starstruck** | Created a repository that has many stars. The color of the badge is different when you get [16](#todo), [128](#todo), [512](#todo) or [4096](#todo) stars. |
+| ![](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Созданный вами репозиторий получил большое количеством звезд. Цвет значка зависит от количества полученных звезд ([16](#todo), [128](#todo), [512](#todo) или [4096](#todo)) |
 | <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="GitHub-бейджик за достижение Quickdraw" style="width:120px"> | **Quickdraw** | Gitty up! Closed an issue / pull request within 5 minutes of opening. Выдаётся за хотя бы 1 быстро-завтрытый issue или pull request. |
 | <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="GitHub-бейджик за достижение Pair Extraordinaire" style="width:120px"> | **Pair Extraordinaire** | Coauthored commits on merged pull request. Цвет значка отличается в зависимости от количества PR-ов (1, 10, 24 или 48). |
 | <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="GitHub-бейджик за достижение Pull Shark" style="width:120px"> | **Pull Shark** | Opened a pull request that has been merged. Цвет значка отличается в зависимости от количества принятых PR-ов (2, 16, 128 или 1024). |
