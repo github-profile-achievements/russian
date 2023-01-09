@@ -8,6 +8,8 @@
 
 | Значок | Название | Как получить? |
 | :---: | --- | --- |
+| ![Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | ??? |
+| ![Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | ??? |
 | ![](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Созданный вами репозиторий получил большое количеством звезд. Цвет значка зависит от количества полученных звезд ([16](#todo), [128](#todo), [512](#todo) или [4096](#todo)) |
 | ![](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | Выдаётся, если вы хотя бы один раз закрыли `issue` или смержили `pull request` **в течение 5 минут** после открытия. |
 | ![](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Вы были соавтором (делали коммиты) в смерженных `pull request`. Цвет значка зависит от количества принятых `pull request`-ов ([1](#todo), [10](#todo), [24](#todo) или [48](#todo)). |
@@ -27,7 +29,7 @@
 
 | **Достижение** | <nobr>По-умолчанию</nobr> | Бронзовый | Серебряный | Золотой | <nobr>100% samples</nobr> |
 | --- | :---: | :---: | :---: | :---: | --- |
-| **Starstruck** | <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Достижение Starstruck (по-умолчанию)" style="width:80px"> | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       | [@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
+| **Starstruck** | ![Достижение Starstruck (по-умолчанию)](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       | [@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
 |                         | 16 звёзд        | 128 звёзд        | 512 звёзд         | 4096 звёзд         |      |
 | <nobr>**Pair Extraordinaire**</nobr> | ![][pe-default] | ![][pe-bronze] | ![][pe-silver] | ![][pe-gold] | TODO |
 |                         | 1 pull requests | 10 pull requests | 24 pull requests  | 48 pull requests   |      |
@@ -35,8 +37,12 @@
 |                         | 2 pull requests | 16 pull requests | 128 pull requests | 1024 pull requests |      |
 | **Galaxy Brain**        | ![][gb-default] | ![][gb-bronze]   | ![][gb-silver]    | ![][gb-gold]       | TODO |
 |                         | 2 ответов       | 8 ответов        | 16 ответов        | 32 ответов         |      |
-| Heart On Your Sleeve |
-| Open Sourcerer |
+| **Heart On Your Sleeve** | ![Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | ![Бронзовый Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png) | ![Серебряный Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png) | ![Золотой Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png) | ??? |
+| | ??? | ??? | ??? | ??? | |
+| **Open Sourcerer** | ![Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | ![Бронзовый Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png) | ![Серебряный Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png) | ![Золотой Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png) | ??? |
+| | ??? | ??? | ??? | ??? | |
+
+
 
 [ss-bronze]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png
 [ss-silver]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png
