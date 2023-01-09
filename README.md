@@ -27,32 +27,21 @@
 
 Для получения большинства значков необходимо произвести некоторое действие однократно, но в ряде случаем действие необходимо произвести несколько раз.
 
-| **Достижение** | <nobr>По-умолчанию</nobr> | Бронзовый | Серебряный | Золотой | <nobr>100% samples</nobr> |
-| --- | :---: | :---: | :---: | :---: | --- |
-| **Starstruck** | ![Достижение Starstruck (по-умолчанию)](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       | - 16 звёзд <br>- 128 звёзд </br>- 512 звёзд <br>- 4096 звёзд [@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
-|                         | 16 звёзд        | 128 звёзд        | 512 звёзд         | 4096 звёзд         |      |
-| <nobr>**Pair Extraordinaire**</nobr> | ![][pe-default] | ![][pe-bronze] | ![][pe-silver] | ![][pe-gold] | - 1 PR [@gomzyakov](https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements) |
-|                         | 1 pull requests | 10 pull requests | 24 pull requests  | 48 pull requests   |      |
-| **Pull Shark**          | ![][ps-default] | ![][ps-bronze]   | ![][ps-silver]    | ![][ps-gold]       | TODO |
-|                         | 2 pull requests | 16 pull requests | 128 pull requests | 1024 pull requests |      |
-| **Galaxy Brain**        | ![][gb-default] | ![][gb-bronze]   | ![][gb-silver]    | ![][gb-gold]       | TODO |
-|                         | 2 ответов       | 8 ответов        | 16 ответов        | 32 ответов         |      |
-| **Heart On Your Sleeve** | ![Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | ![Бронзовый Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png) | ![Серебряный Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png) | ![Золотой Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png) | ??? |
-| | ??? | ??? | ??? | ??? | |
-| **Open Sourcerer** | ![Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | ![Бронзовый Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png) | ![Серебряный Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png) | ![Золотой Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png) | ??? |
-| | ??? | ??? | ??? | ??? | |
+| Достижение | По-умолчанию | Бронзовый | Серебряный | Золотой |
+| --- | :---: | :---: | :---: | :---: |
+| **Starstruck** | ![Достижение Starstruck (по-умолчанию)](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Бронзовое достижение Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png) | ![Серебряное достижение Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png) | ![Золотое достижение Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png) |
+| | 16 звёзд        | 128 звёзд        | 512 звёзд         | 4096 звёзд <br>[@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements) |
+| **Pair Extraordinaire** | ![][pe-default] | ![][pe-bronze] | ![][pe-silver] | ![][pe-gold] | - 1 PR  |
+| | 1 pull requests <br>[@gomzyakov](https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements) | 10 pull requests | 24 pull requests  | 48 pull requests   |
+| **Pull Shark**          | ![][ps-default] | ![][ps-bronze]   | ![][ps-silver]    | ![][ps-gold]       |
+|                         | 2 pull requests | 16 pull requests | 128 pull requests | 1024 pull requests |
+| **Galaxy Brain**        | ![][gb-default] | ![][gb-bronze]   | ![][gb-silver]    | ![][gb-gold]       |
+|                         | 2 ответов       | 8 ответов        | 16 ответов        | 32 ответов         |
+| **Heart On Your Sleeve** | ![Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | ![Бронзовый Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png) | ![Серебряный Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png) | ![Золотой Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png) |
+| | ??? | ??? | ??? | ??? |
+| **Open Sourcerer** | ![Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | ![Бронзовый Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png) | ![Серебряный Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png) | ![Золотой Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png) |
+| | ??? | ??? | ??? | ??? |
 
-
-### Starstruck
-
-| <nobr>По-умолчанию</nobr> | Бронзовый | Серебряный | Золотой | <nobr>Примеры</nobr> |
-| :---: | :---: | :---: | :---: | --- |
-| <img alt="Достижение Starstruck (по-умолчанию)" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" style="width: 60px"> | <img alt="Бронзовое достижение Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png" style="width: 60px"> | <img alt="Серебряное достижение Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png" style="width: 60px"> | <img alt="Золотое достижение Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" style="width: 60px"> | - 16 звёзд <br>- 128 звёзд </br>- 512 звёзд <br>- Золотой 4096 звёзд [@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
-
-
-[ss-bronze]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png
-[ss-silver]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png
-[ss-gold]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png
 
 [pe-default]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png
 [pe-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png
