@@ -29,9 +29,9 @@
 
 | **Достижение** | <nobr>По-умолчанию</nobr> | Бронзовый | Серебряный | Золотой | <nobr>100% samples</nobr> |
 | --- | :---: | :---: | :---: | :---: | --- |
-| **Starstruck** | ![Достижение Starstruck (по-умолчанию)](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       | [@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
+| **Starstruck** | ![Достижение Starstruck (по-умолчанию)](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       | - 16 звёзд <br>- 128 звёзд </br>- 512 звёзд <br>- 4096 звёзд [@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
 |                         | 16 звёзд        | 128 звёзд        | 512 звёзд         | 4096 звёзд         |      |
-| <nobr>**Pair Extraordinaire**</nobr> | ![][pe-default] | ![][pe-bronze] | ![][pe-silver] | ![][pe-gold] | TODO |
+| <nobr>**Pair Extraordinaire**</nobr> | ![][pe-default] | ![][pe-bronze] | ![][pe-silver] | ![][pe-gold] | - 1 PR [@gomzyakov](https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements) |
 |                         | 1 pull requests | 10 pull requests | 24 pull requests  | 48 pull requests   |      |
 | **Pull Shark**          | ![][ps-default] | ![][ps-bronze]   | ![][ps-silver]    | ![][ps-gold]       | TODO |
 |                         | 2 pull requests | 16 pull requests | 128 pull requests | 1024 pull requests |      |
