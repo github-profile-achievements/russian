@@ -43,6 +43,10 @@
 | | ??? | ??? | ??? | ??? | |
 
 
+| **Достижение** | <nobr>По-умолчанию</nobr> | Бронзовый | Серебряный | Золотой | <nobr>Примеры</nobr> |
+| --- | :---: | :---: | :---: | :---: | --- |
+| **Starstruck** | <img alt="Достижение Starstruck (по-умолчанию)" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)" style="width: 80px"> | ![][ss-bronze]   | ![][ss-silver]    | ![][ss-gold]       | - 16 звёзд <br>- 128 звёзд </br>- 512 звёзд <br>- Золотой 4096 звёзд [@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
+
 
 [ss-bronze]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png
 [ss-silver]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png
