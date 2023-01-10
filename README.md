@@ -12,8 +12,7 @@
 | ![Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | ??? |
 | ![](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Созданный вами репозиторий должен получить **16 звёзд** или [больше](#Градация-некоторых-достижений). |
 | ![](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | Выдаётся, если вы хотя бы один раз закрыли `issue` или смержили `pull request` **в течение 5 минут** после открытия. |
-| ![](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | 
-Был смёржен один (или [несколько](#Градация-некоторых-достижений)) `pull request`, который вы делали в соавторстве с другими разработчиками. |
+| ![](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Был смёржен один (или [несколько](#Градация-некоторых-достижений)) `pull request`, который вы делали в соавторстве с другими разработчиками. |
 | ![](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | **Pull Shark** | Было принято (смержено) два открытых вами `pull request`-а (или [больше](#Градация-некоторых-достижений)). |
 | ![](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | Автор дискуссии принял два (или [больше](#Градация-некоторых-достижений)) ваших ответа (нажал `Mark as answer`). |
 | ![](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | Выдаётся, если вы хотя бы один ваш `pull request` выл принят без замечаний (автор не написал ни одного треда и смёржил правки). |
