@@ -13,12 +13,12 @@ layout: site
           <h1>{{ page.title | default: post.title }}</h1>
         {% endif %}
 
-        {% include page-information.liquid %}
-
         {{ content }}
     </div>
     <div class="col-lg-4">
       RightColumn
+        {% include page-information.html %}
+
     </div>
   </div>
 </div>
