@@ -2,19 +2,23 @@
 layout: site
 ---
 
-<main>
-single-page
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8">
+      {% if page.show_prev_next %}
+            {% include prev_next.liquid %}
+         {% endif %}
 
-   {% if page.show_prev_next %}
-      {% include prev_next.liquid %}
-   {% endif %}
+        {% if site.titles_from_headings.strip_title == true%}
+          <h1>{{ page.title | default: post.title }}</h1>
+        {% endif %}
 
-  {% if site.titles_from_headings.strip_title == true%}
-    <h1>{{ page.title | default: post.title }}</h1>
-  {% endif %}
+        {% include page-information.liquid %}
 
-  {% include page-information.liquid %}
-  
-  {{ content }}
-
-</main>
+        {{ content }}
+    </div>
+    <div class="col-lg-4">
+      RightColumn
+    </div>
+  </div>
+</div>
