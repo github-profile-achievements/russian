@@ -10,12 +10,7 @@
 
     <link rel="stylesheet" href="/assets/style.css">
 
-    {% if page.redirect_to %}
-    <link rel="canonical" href="{{ page.redirect_to }}"/>
-    <meta http-equiv="refresh" content="0;url={{ page.redirect_to }}"/>
-    {% else %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    {% endif %}
 
     <link rel="icon" href="https://brand.publiccode.net/logo/mark-128w128h.png">
 
