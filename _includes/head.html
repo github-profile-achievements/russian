@@ -3,19 +3,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{% if page.title and page.title != site.title %}{{ page.title | escape }}, {% endif %}{{ site.title | escape
-        }}</title>
-    <meta name="description"
-          content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <title>{{ site.title | escape }}</title>
+    <meta name="description" content="{{ site.description }}">
 
     <link rel="stylesheet" href="{{ "/assets/style.css" | prepend: site.baseurl | prepend: site.url }}">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    <link rel="icon" href="https://brand.publiccode.net/logo/mark-128w128h.png">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
 
-    {% assign urlparts = site.url | split: '/' %}
-    {% assign subdomain = urlparts[2] | default: 'publiccode.net' %}
-
-    <script async defer data-domain="{{ subdomain }}" src="https://plausible.io/js/plausible.js"></script>
 </head>
