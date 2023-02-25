@@ -1,0 +1,16 @@
+<header>
+  {% if site.title %}
+    <section class="site-title {% if page.url == '/' %} home {% endif %}">
+      <a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+    </section>
+  {% endif %}
+
+  {% if site.show_navigation == true %}
+
+    <nav id="site-nav">
+      <input type="checkbox" id="show-site-nav"></input><label for="show-site-nav">site menu</label>
+      {% include navigation.liquid context="/" %}
+    </nav>
+
+  {% endif %}
+</header>

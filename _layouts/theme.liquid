@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en'}}">
+
+  {% include head.liquid %}
+
+  <body class="{% if page.toc != false and site.toc == true or page.toc == true %}with-toc{% endif %} {% if site.show_navigation == true %}with-site-nav{% endif %}">
+
+    {% include theme-nav.liquid %}
+
+    {{ content }}
+
+    {% include theme-footer-logo.liquid %}
+
+    {% include theme-footer.liquid %}
+
+  </body>
+
+</html>

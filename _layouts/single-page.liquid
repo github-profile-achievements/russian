@@ -1,0 +1,23 @@
+---
+layout: site
+---
+
+<main>
+
+   {% if page.show_prev_next %}
+      {% include prev_next.liquid %}
+   {% endif %}
+
+  {% if site.show_breadcrumbs %}
+    {% include breadcrumbs.liquid %}
+  {% endif %}
+
+  {% if site.titles_from_headings.strip_title == true%}
+    <h1>{{ page.title | default: post.title }}</h1>
+  {% endif %}
+
+  {% include page-information.liquid %}
+  
+  {{ content }}
+
+</main>

@@ -1,0 +1,32 @@
+<!-- viewer distro -->
+
+<script src="https://unpkg.com/bpmn-js@2.5.2/dist/bpmn-navigated-viewer.development.js"></script>
+
+<div id="bpmn-canvas"></div>
+
+<script>
+var diagramUrl = '{{ include.url }}'
+var bpmnViewer = new BpmnJS({
+  container: '#bpmn-canvas'
+})
+function openDiagram(bpmnXML) {
+  // import diagram
+  bpmnViewer.importXML(bpmnXML, function(err) {
+    if (err) {
+      return console.error('could not import BPMN 2.0 diagram', err)
+    }
+    // access viewer components
+    var canvas = bpmnViewer.get('canvas')
+    // zoom to fit full viewport
+    canvas.zoom('fit-viewport')
+  })
+}
+var request = new XMLHttpRequest()
+request.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      openDiagram(this.responseText)
+    }
+}
+request.open("GET", diagramUrl, true)
+request.send()
+</script>

@@ -99,3 +99,6 @@
 ## Есть предложения?
 
 Если у вас есть вопросы или предложения как улучшить информацию на этой странице, вы всегда можете написать в [issues](https://github.com/github-profile-achievements/russian/issues).
+
+[![pages-build-deployment](https://github.com/github-profile-achievements/russian/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/github-profile-achievements/russian/actions/workflows/pages/pages-build-deployment)
+

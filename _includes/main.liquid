@@ -1,0 +1,14 @@
+<main>
+  {% if site.show_breadcrumbs %}
+    {% include breadcrumbs.liquid %}
+  {% endif %}
+
+  {% if site.titles_from_headings.strip_title == true%}
+    <h1>{{ page.title | default: post.title }}</h1>
+  {% endif %}
+
+  {% include content.liquid %}
+
+  {% include page-information.liquid %}
+
+</main>

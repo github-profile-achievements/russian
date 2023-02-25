@@ -4,3 +4,7 @@
 
 # OS X
 .DS_Store
+
+# Jekyll
+Gemfile.lock
+_site

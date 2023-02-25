@@ -1,0 +1,17 @@
+<span id="span-prev-next" class="theme-prev-next">
+{% assign prev_order = page.order | minus:1 %}
+{% assign next_order = page.order | plus:1 %}
+{% assign sorted = site.pages | sort:"order" %}
+{% for otherpage in sorted %}
+{% if otherpage.order == prev_order %}
+<span id="span-prev" class="theme-prev-next-prev"><a
+		     href="{{site.baseurl}}{{ otherpage.url }}"
+		     >&#8592; {{ otherpage.title }}</a></span>
+{% endif %}
+{% if otherpage.order == next_order %}
+<span id="span-next" class="theme-prev-next-next"><a
+		     href="{{site.baseurl}}{{ otherpage.url }}"
+		     >{{ otherpage.title }} &#8594;</a></span>
+{% endif %}
+{% endfor %}
+</span><!-- span-prev-next -->

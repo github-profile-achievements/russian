@@ -1,0 +1,51 @@
+<ul id="sitemap-list">
+
+    {% comment %} <pre><code>{{include.dir}} - {{ site.pages | where: "url", include.url | first }}</code></pre> {% endcomment %}
+    
+    {% comment %} 
+    Create a header for the   with a link to the index
+    {% endcomment %}
+    {% assign dir_index = site.pages | where: "url", include.dir | first %}
+    <lh>
+        <a href="{{ dir_index.url }}">{{ dir_index.title | default: dir_index.dir }}</a>
+    </lh>
+
+    {% comment %}
+    List all indexes of child directories and recursively call this partial on it
+    {% endcomment %}
+
+    {% assign indexes = site.pages | where: "name", "index.md" | sort: "name" | sort: "order" %}
+    {% assign indexes = site.pages | where: "name", "index.html" | sort: "name" | sort: "order" | concat: indexes %}
+
+    {% comment %} <pre><code>{{ indexes }}</code></pre> {% endcomment %}
+
+    {% for index in indexes %}
+        {% comment %}
+        Only include directories directly nested
+        {% endcomment %}
+        {% assign dir_size = include.dir | size %}
+        {% assign index_dir_size = index.dir | size %}
+        {% assign dir_core = index.dir | slice: 0, dir_size %}
+        {% assign dir_follow = index.dir | slice: dir_size, index_dir_size %}
+        {% assign subdir = dir_follow | split: "/" %}
+        {% assign subdir_size = subdir | size %}
+
+        {% if index.dir != include.dir and dir_core == include.dir and subdir_size == 1 %}
+        <li>
+        {% include list-dir-pages.liquid dir=index.dir %}
+        </li>
+        {% endif %}
+    {% endfor %}
+
+    {% comment %}
+    Link to the non-index pages in this folder
+    {% endcomment %}
+
+    {% assign subpages = site.pages | where: "dir", include.dir %}
+    {% for subpage in subpages %}
+        {% if subpage.url != dir_index.url and subpage.name != "index.md" and subpage.title and subpage.name != "404.md" %}
+        <li><a href="{{subpage.url}}">{{ subpage.title}}</a></li>
+        {% endif %}
+    {% endfor %}
+
+</ul>
