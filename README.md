@@ -19,6 +19,7 @@
 | ![Значок Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | Выдаётся, если вы хотя бы один раз спонсировали oupensorce-проект или разработчика на GitHub. |
 | ![Значок Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | Сделали вклад в один из репозиториев проекта [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter). Выдавался за хотя бы 1 случай вклада. :x: Больше нельзя заработать. |
 | ![Значок 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | Ваш код был включён в программу [2020 GitHub Archive Program](https://archiveprogram.github.com/). Выдавался за хотя бы 1 случай вклада. :x: Больше нельзя заработать. |
+{: .table }
 
 <br>
 
@@ -41,7 +42,7 @@
 | | ??? | ??? | ??? | ??? |
 | **Open Sourcerer** | ![Значок Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | ![Бронзовый значок Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png) | ![Серебряный значок Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png) | ![Золотой значок Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png) |
 | | ??? | ??? | ??? | ??? |
-
+{: .table }
 
 [pe-default]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png
 [pe-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png
@@ -74,6 +75,7 @@
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Starstruck** | ![Тон значка Starstruck по-умолчанию](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Light тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png) | ![Light-medium тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png) | ![Medium тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png) | ![Medium-dark тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png) | ![Dark тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png) |
 | **Quickdraw** | ![Тон значка Quickdraw по-умолчанию][q-default] | ![Light тон значка Quickdraw][q-light] | ![Light-medium тон значка Quickdraw][q-light-medium] | ![Medium тон значка Quickdraw][q-medium] | ![Medium-dark тон значка Quickdraw][q-medium-dark] | ![Dark тон значка Quickdraw][q-dark] |
+{: .table }
 
 [q-default]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
 [q-light]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png
