@@ -1,16 +1,16 @@
 <section class="page-information">
 
     {% if site.github.repository_url %}
-    <h3 id="page-edit-links">Contribute on GitHub</h3>
+    <h3 id="page-edit-links">Правки на GitHub</h3>
     <ul class="edit-links">
         <li>
             <a href="{{ site.github.repository_url }}/edit/{{ default_branch }}/{{ page.path }}">
-                {% include github-pr.svg %} Edit this page
+                <i class="bi bi-arrows-angle-contract"></i> Редактировать страницу
             </a>
         </li>
         <li>
             <a href="{{ site.github.repository_url }}/issues">
-                {% include github-issue.svg %} File an Issue
+                <i class="bi bi-list-stars"></i> Написать замечание
             </a>
         </li>
     </ul>
