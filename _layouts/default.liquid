@@ -3,10 +3,6 @@ layout: single-page
 ---
 
 <section class="content">
-  {% if page.bpmn %}
-    <h3 id="page-process-bpmn">Process <abbr title="Business Process Model and Notation is a graphical representation for specifying business processes in a business process model.">BPMN</abbr></h3>
-    {% include bpmn.liquid url=page.bpmn %}
-  {% endif %}
   <article class="markdown-body">
     {{ content }}
   </article>
