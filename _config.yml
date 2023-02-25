@@ -28,9 +28,6 @@ license:
 # Add a custom copyright message
 # copyright: Foundation for Public Code
 
-# Enable Table of Contents displaying
-toc: true
-
 # Show breadcrumbs on every page 
 show_breadcrumbs: true
 
