@@ -94,7 +94,7 @@
 | ![Темный Security Bug Bounty Hunter](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![Светлый Security Bug Bounty Hunter](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Security Bug Bounty Hunter** | Помогал в поиске уязвимостей на [GitHub Security](https://bounty.github.com/) |
 | ![Темный GitHub Campus Expert](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![Светлый GitHub Campus Expert](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only) | **GitHub Campus Expert** | Принимал участие в [GitHub Campus Program](https://education.github.com/experts) |
 | ![Темный GitHub Advisory Database](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![Светлый GitHub Advisory Database](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only) | **Security advisory credit** | Ваши рекомендации по безопасности были приняты в [GitHub Advisory Database](https://github.com/advisories) |
-
+{: .table }
 
 ## Есть предложения?
 
