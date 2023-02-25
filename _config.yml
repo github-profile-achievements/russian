@@ -1,6 +1,8 @@
 title: Foundation for Public Code Jekyll Theme
 permalinks: pretty
 
+lang: ru
+
 include:
   - CONTRIBUTING.md
   - LICENSE
@@ -27,9 +29,6 @@ license:
 
 # Enable Table of Contents displaying
 toc: true
-
-# Show the navigation
-# show_navigation: true
 
 # Show breadcrumbs on every page 
 show_breadcrumbs: true
