@@ -5,7 +5,7 @@
 
   <body class="{% if page.toc != false and site.toc == true or page.toc == true %}with-toc{% endif %} {% if site.show_navigation == true %}with-site-nav{% endif %}">
 
-    {% include theme-nav.liquid %}
+    {% include navbar.html %}
 
     {{ content }}
 
