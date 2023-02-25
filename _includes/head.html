@@ -1,0 +1,27 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% if page.title and page.title != site.title %}{{ page.title | escape }}, {% endif %}{{ site.title | escape
+        }}</title>
+    <meta name="description"
+          content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+    <link rel="stylesheet" href="{{ "
+    /assets/style.css" | prepend: site.baseurl | prepend: site.url }}">
+
+    {% if page.redirect_to %}
+    <link rel="canonical" href="{{ page.redirect_to }}"/>
+    <meta http-equiv="refresh" content="0;url={{ page.redirect_to }}"/>
+    {% else %}
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    {% endif %}
+
+    <link rel="icon" href="https://brand.publiccode.net/logo/mark-128w128h.png">
+
+    {% assign urlparts = site.url | split: '/' %}
+    {% assign subdomain = urlparts[2] | default: 'publiccode.net' %}
+
+    <script async defer data-domain="{{ subdomain }}" src="https://plausible.io/js/plausible.js"></script>
+</head>
