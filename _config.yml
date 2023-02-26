@@ -29,8 +29,6 @@ license:
 # Add a custom copyright message
 # copyright: Foundation for Public Code
 
-# Hide the Foundation footer
-# hide_foundation_footer: true
 
 defaults:
   -

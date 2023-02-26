@@ -62,11 +62,8 @@
         {% endif %}
         {% endfor %}
         {% if authors_file != true %}<a href="https://publiccode.net/">
-        {{ site.copyright | default: 'Foundation for Public Code' }}
     </a>{% endif %}
-        {% if authors_file %}<a href="{{ site.baseurl }}/AUTHORS.html">
-        {{ site.copyright | default: ' The Authors' }}
-    </a>{% endif %}
+
     </p>
     <p>
         {% for static_file in site.static_files %}
