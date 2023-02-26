@@ -72,7 +72,7 @@
 <table class="table table-bordered">
 <thead>
     <tr>
-      <th scope="col">**Название ачивки**</th>
+      <th scope="col">Название ачивки</th>
       <th scope="col">👋</th>
       <th scope="col">👋🏻</th>
       <th scope="col">👋🏼</th>
@@ -84,19 +84,27 @@
   <tbody>
     <tr>
       <th scope="row">Starstruck</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-      <td>@mdo</td>
-      <td>@mdo</td>
-      <td>@mdo</td>
+      <td><img alt="Тон значка Starstruck по-умолчанию" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"></td>
+      <td><img alt="Light тон достижения Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png"></td>
+      <td><img alt="Light-medium тон достижения Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png"></td>
+      <td><img alt="Medium тон достижения Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png"></td>
+      <td><img alt="Medium-dark тон достижения Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png"></td>
+      <td><img alt="Dark тон достижения Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png"></td>
+    </tr>
+    <tr>
+      <th scope="row">Starstruck</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
 | **Название ачивки** | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Starstruck** | ![Тон значка Starstruck по-умолчанию](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Light тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png) | ![Light-medium тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png) | ![Medium тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png) | ![Medium-dark тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png) | ![Dark тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png) |
 | **Quickdraw** | ![Тон значка Quickdraw по-умолчанию][q-default] | ![Light тон значка Quickdraw][q-light] | ![Light-medium тон значка Quickdraw][q-light-medium] | ![Medium тон значка Quickdraw][q-medium] | ![Medium-dark тон значка Quickdraw][q-medium-dark] | ![Dark тон значка Quickdraw][q-dark] |
 
 <br>
