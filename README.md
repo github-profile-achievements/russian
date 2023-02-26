@@ -69,6 +69,39 @@
 
 <br>
 
+<table class="table table-bordered">
+<thead>
+    <tr>
+      <th scope="col">**Название ачивки**</th>
+      <th scope="col">👋</th>
+      <th scope="col">👋🏻</th>
+      <th scope="col">👋🏼</th>
+      <th scope="col">👋🏽</th>
+      <th scope="col">👋🏾</th>
+      <th scope="col">👋🏿</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Starstruck</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+      <td>@mdo</td>
+      <td>@mdo</td>
+      <td>@mdo</td>
+    </tr>
+  </tbody>
+</table>
+
+| **Название ачивки** | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Starstruck** | ![Тон значка Starstruck по-умолчанию](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Light тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png) | ![Light-medium тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png) | ![Medium тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png) | ![Medium-dark тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png) | ![Dark тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png) |
+| **Quickdraw** | ![Тон значка Quickdraw по-умолчанию][q-default] | ![Light тон значка Quickdraw][q-light] | ![Light-medium тон значка Quickdraw][q-light-medium] | ![Medium тон значка Quickdraw][q-medium] | ![Medium-dark тон значка Quickdraw][q-medium-dark] | ![Dark тон значка Quickdraw][q-dark] |
+
+<br>
+
+
 | **Название ачивки** | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Starstruck** | ![Тон значка Starstruck по-умолчанию](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Light тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png) | ![Light-medium тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png) | ![Medium тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png) | ![Medium-dark тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png) | ![Dark тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png) |
@@ -93,6 +126,8 @@
 | ![Темный Security Bug Bounty Hunter](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![Светлый Security Bug Bounty Hunter](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Security Bug Bounty Hunter** | Помогал в поиске уязвимостей на [GitHub Security](https://bounty.github.com/) |
 | ![Темный GitHub Campus Expert](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![Светлый GitHub Campus Expert](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only) | **GitHub Campus Expert** | Принимал участие в [GitHub Campus Program](https://education.github.com/experts) |
 | ![Темный GitHub Advisory Database](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![Светлый GitHub Advisory Database](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only) | **Security advisory credit** | Ваши рекомендации по безопасности были приняты в [GitHub Advisory Database](https://github.com/advisories) |
+
+<br>
 
 ## Есть предложения?
 
