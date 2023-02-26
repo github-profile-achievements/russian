@@ -73,12 +73,12 @@
 <thead>
     <tr>
       <th scope="col">Название ачивки</th>
-      <th scope="col">👋</th>
-      <th scope="col">👋🏻</th>
-      <th scope="col">👋🏼</th>
-      <th scope="col">👋🏽</th>
-      <th scope="col">👋🏾</th>
-      <th scope="col">👋🏿</th>
+      <th scope="col" class="text-center">👋</th>
+      <th scope="col" class="text-center">👋🏻</th>
+      <th scope="col" class="text-center">👋🏼</th>
+      <th scope="col" class="text-center">👋🏽</th>
+      <th scope="col" class="text-center">👋🏾</th>
+      <th scope="col" class="text-center">👋🏿</th>
     </tr>
   </thead>
   <tbody>
@@ -92,35 +92,16 @@
       <td><img alt="Dark тон достижения Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png"></td>
     </tr>
     <tr>
-      <th scope="row">Starstruck</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <th scope="row">Quickdraw</th>
+      <td><img alt="Тон значка Quickdraw по-умолчанию" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png"></td>
+      <td><img alt="Light тон значка Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png"></td>
+      <td><img alt="Light-medium тон значка Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light-medium.png"></td>
+      <td><img alt="Medium тон значка Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium.png"></td>
+      <td><img alt="Medium-dark тон значка Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium-dark.png"></td>
+      <td><img alt="Dark тон значка Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--dark.png"></td>
     </tr>
   </tbody>
 </table>
-
-| **Название ачивки** | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
-| --- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Quickdraw** | ![Тон значка Quickdraw по-умолчанию][q-default] | ![Light тон значка Quickdraw][q-light] | ![Light-medium тон значка Quickdraw][q-light-medium] | ![Medium тон значка Quickdraw][q-medium] | ![Medium-dark тон значка Quickdraw][q-medium-dark] | ![Dark тон значка Quickdraw][q-dark] |
-
-<br>
-
-
-| **Название ачивки** | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
-| --- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Starstruck** | ![Тон значка Starstruck по-умолчанию](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Light тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png) | ![Light-medium тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png) | ![Medium тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png) | ![Medium-dark тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png) | ![Dark тон достижения Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png) |
-| **Quickdraw** | ![Тон значка Quickdraw по-умолчанию][q-default] | ![Light тон значка Quickdraw][q-light] | ![Light-medium тон значка Quickdraw][q-light-medium] | ![Medium тон значка Quickdraw][q-medium] | ![Medium-dark тон значка Quickdraw][q-medium-dark] | ![Dark тон значка Quickdraw][q-dark] |
-
-[q-default]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
-[q-light]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png
-[q-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light-medium.png
-[q-medium]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium.png
-[q-medium-dark]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium-dark.png
-[q-dark]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--dark.png
 
 <br>
 
