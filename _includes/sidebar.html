@@ -1,6 +1,23 @@
+<!-- GitHub repository information -->
+{% if site.github %}
+<section class="mt-2">
+    <h3>This site on GitHub</h3>
+    <p>This site was last published {{ site.time | date_to_long_string }} from the <a
+            href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a> repository on GitHub.</p>
+
+    <form id="search-repository" action="{{ site.github.repository_url }}/search" method="GET">
+        <input name="q" type="text" placeholder="Search source on GitHub">
+        <button type="Submit">
+            <i class="bi bi-github"></i> Search
+        </button>
+    </form>
+
+</section>
+{% endif %}
+
 <!-- Release information -->
 {% if site.github and site.github.releases and site.github.releases[0] %}
-<section>
+<section class="mt-4">
     {% assign latestRelease = site.github.releases[0] %}
 
     <h3>Version {{ latestRelease.tag_name }}{% if latestRelease.prerelease == true %} (pre-release){% endif %}</h3>
@@ -33,26 +50,10 @@
 </section>
 {% endif %}
 
-<!-- GitHub repository information -->
-{% if site.github %}
-<section>
-    <h3>This site on GitHub</h3>
-    <p>This site was last published {{ site.time | date_to_long_string }} from the <a
-            href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a> repository on GitHub.</p>
-
-    <form id="search-repository" action="{{ site.github.repository_url }}/search" method="GET">
-        <input name="q" type="text" placeholder="Search source on GitHub">
-        <button type="Submit">
-            <i class="bi bi-github"></i> Search
-        </button>
-    </form>
-
-</section>
-{% endif %}
 
 <!-- License information -->
 {% if site.license or site.github.license %}
-<section>
+<section class="mt-4">
     <h3>Copyright and license</h3>
     <p>
         © {{ site.time | date: '%Y' }}
