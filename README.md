@@ -73,17 +73,17 @@
 <thead>
     <tr>
       <th scope="col">Название ачивки</th>
-      <th scope="col" class="text-center">👋</th>
-      <th scope="col" class="text-center">👋🏻</th>
-      <th scope="col" class="text-center">👋🏼</th>
-      <th scope="col" class="text-center">👋🏽</th>
-      <th scope="col" class="text-center">👋🏾</th>
-      <th scope="col" class="text-center">👋🏿</th>
+      <th scope="col" class="text-center align-middle">👋</th>
+      <th scope="col" class="text-center align-middle">👋🏻</th>
+      <th scope="col" class="text-center align-middle">👋🏼</th>
+      <th scope="col" class="text-center align-middle">👋🏽</th>
+      <th scope="col" class="text-center align-middle">👋🏾</th>
+      <th scope="col" class="text-center align-middle">👋🏿</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Starstruck</th>
+      <th scope="row" class="align-middle">Starstruck</th>
       <td><img alt="Тон значка Starstruck по-умолчанию" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"></td>
       <td><img alt="Light тон достижения Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png"></td>
       <td><img alt="Light-medium тон достижения Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png"></td>
@@ -92,7 +92,7 @@
       <td><img alt="Dark тон достижения Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png"></td>
     </tr>
     <tr>
-      <th scope="row">Quickdraw</th>
+      <th scope="row" class="align-middle">Quickdraw</th>
       <td><img alt="Тон значка Quickdraw по-умолчанию" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png"></td>
       <td><img alt="Light тон значка Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png"></td>
       <td><img alt="Light-medium тон значка Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light-medium.png"></td>
