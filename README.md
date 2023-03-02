@@ -17,57 +17,57 @@
   <tbody>
     <tr>
       <td><img alt="Значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png"></td>
-      <td class="font-weight-bold">Heart On Your Sleeve</td>
+      <td class="fw-bold">Heart On Your Sleeve</td>
       <td>???</td>
     </tr>
     <tr>
       <td><img alt="Значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png"></td>
-      <td class="font-weight-bold">Open Sourcerer</td>
+      <td class="fw-bold">Open Sourcerer</td>
       <td>???</td>
     </tr>
     <tr>
       <td><img alt="Значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"></td>
-      <td class="font-weight-bold">Starstruck</td>
-      <td>Созданный вами репозиторий должен получить <span class="font-weight-bold">16 звёзд</span> или больше.</td>
+      <td class="fw-bold">Starstruck</td>
+      <td>Созданный вами репозиторий должен получить <span class="fw-bold">16 звёзд</span> или больше.</td>
     </tr>
     <tr>
       <td><img alt="Значок Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png"></td>
-      <td class="font-weight-bold">Quickdraw</td>
-      <td>Выдаётся, если вы хотя бы один раз закрыли `issue` или смержили `pull request` <span class="font-weight-bold">в течение 5 минут</span> после открытия.</td>
+      <td class="fw-bold">Quickdraw</td>
+      <td>Выдаётся, если вы хотя бы один раз закрыли `issue` или смержили `pull request` <span class="fw-bold">в течение 5 минут</span> после открытия.</td>
     </tr>
     <tr>
       <td><img alt="Значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"></td>
-      <td class="font-weight-bold">Pair Extraordinaire</td>
+      <td class="fw-bold">Pair Extraordinaire</td>
       <td>Был смёржен один или несколько `pull request`, который вы делали в соавторстве с другими разработчиками.</td>
     </tr>
     <tr>
       <td><img alt="Значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"></td>
-      <td class="font-weight-bold">Pull Shark</td>
+      <td class="fw-bold">Pull Shark</td>
       <td>Было принято (смержено) два открытых вами `pull request`-а (или больше).</td>
     </tr>
     <tr>
       <td><img alt="Значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png"></td>
-      <td class="font-weight-bold">Galaxy Brain</td>
+      <td class="fw-bold">Galaxy Brain</td>
       <td>Автор дискуссии принял два (или больше) ваших ответа (нажал `Mark as answer`).</td>
     </tr>
     <tr>
       <td><img alt="Значок YOLO" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"></td>
-      <td class="font-weight-bold">YOLO</td>
+      <td class="fw-bold">YOLO</td>
       <td>Выдаётся, если хотя бы один ваш `pull request` был принят без замечаний (автор не написал ни одного треда и смёржил правки).</td>
     </tr>
     <tr>
       <td><img alt="Значок Public Sponsor" src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png"></td>
-      <td class="font-weight-bold">Public Sponsor</td>
+      <td class="fw-bold">Public Sponsor</td>
       <td>Выдаётся, если вы хотя бы один раз спонсировали oupensorce-проект или разработчика на GitHub.</td>
     </tr>
     <tr>
       <td><img alt="Значок Mars 2020 Contributor" src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png"></td>
-      <td class="font-weight-bold">Mars 2020 Contributor</td>
+      <td class="fw-bold">Mars 2020 Contributor</td>
       <td>Сделали вклад в один из репозиториев проекта <a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">Mars 2020 Helicopter Mission</a>. Выдавался за хотя бы 1 случай вклада. Больше нельзя заработать.</td>
     </tr>
     <tr>
       <td><img alt="Значок 2020 GitHub Archive Program" src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png"></td>
-      <td class="font-weight-bold">Arctic Code Vault Contributor</td>
+      <td class="fw-bold">Arctic Code Vault Contributor</td>
       <td>Ваш код был включён в программу <a href="https://archiveprogram.github.com">2020 GitHub Archive Program</a>. Выдавался за хотя бы 1 случай вклада. Больше нельзя заработать.</td>
     </tr>
   </tbody>
