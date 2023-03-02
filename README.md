@@ -28,27 +28,27 @@
     <tr>
       <td><img alt="Значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"></td>
       <td class="font-weight-bold">Starstruck</td>
-      <td>Созданный вами репозиторий должен получить **16 звёзд** или [больше](#Градация-некоторых-достижений).</td>
+      <td>Созданный вами репозиторий должен получить <span class="font-weight-bold">16 звёзд</span> или больше.</td>
     </tr>
     <tr>
       <td><img alt="Значок Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png"></td>
       <td class="font-weight-bold">Quickdraw</td>
-      <td>Выдаётся, если вы хотя бы один раз закрыли `issue` или смержили `pull request` **в течение 5 минут** после открытия.</td>
+      <td>Выдаётся, если вы хотя бы один раз закрыли `issue` или смержили `pull request` <span class="font-weight-bold">в течение 5 минут</span> после открытия.</td>
     </tr>
     <tr>
       <td><img alt="Значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"></td>
       <td class="font-weight-bold">Pair Extraordinaire</td>
-      <td>Был смёржен один (или [несколько](#Градация-некоторых-достижений)) `pull request`, который вы делали в соавторстве с другими разработчиками.</td>
+      <td>Был смёржен один или несколько `pull request`, который вы делали в соавторстве с другими разработчиками.</td>
     </tr>
     <tr>
       <td><img alt="Значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"></td>
       <td class="font-weight-bold">Pull Shark</td>
-      <td>Было принято (смержено) два открытых вами `pull request`-а (или [больше](#Градация-некоторых-достижений)).</td>
+      <td>Было принято (смержено) два открытых вами `pull request`-а (или больше).</td>
     </tr>
     <tr>
       <td><img alt="Значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png"></td>
       <td class="font-weight-bold">Galaxy Brain</td>
-      <td>Автор дискуссии принял два (или [больше](#Градация-некоторых-достижений)) ваших ответа (нажал `Mark as answer`).</td>
+      <td>Автор дискуссии принял два (или больше) ваших ответа (нажал `Mark as answer`).</td>
     </tr>
     <tr>
       <td><img alt="Значок YOLO" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"></td>
@@ -63,12 +63,12 @@
     <tr>
       <td><img alt="Значок Mars 2020 Contributor" src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png"></td>
       <td class="font-weight-bold">Mars 2020 Contributor</td>
-      <td>Сделали вклад в один из репозиториев проекта [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter). Выдавался за хотя бы 1 случай вклада. Больше нельзя заработать.</td>
+      <td>Сделали вклад в один из репозиториев проекта <a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">Mars 2020 Helicopter Mission</a>. Выдавался за хотя бы 1 случай вклада. Больше нельзя заработать.</td>
     </tr>
     <tr>
       <td><img alt="Значок 2020 GitHub Archive Program" src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png"></td>
       <td class="font-weight-bold">Arctic Code Vault Contributor</td>
-      <td>Ваш код был включён в программу [2020 GitHub Archive Program](https://archiveprogram.github.com/). Выдавался за хотя бы 1 случай вклада. Больше нельзя заработать.</td>
+      <td>Ваш код был включён в программу <a href="https://archiveprogram.github.com">2020 GitHub Archive Program</a>. Выдавался за хотя бы 1 случай вклада. Больше нельзя заработать.</td>
     </tr>
   </tbody>
 </table>
