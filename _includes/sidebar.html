@@ -49,33 +49,3 @@
     {% endif %}
 </section>
 {% endif %}
-
-
-<!-- License information -->
-{% if site.license or site.github.license %}
-<section class="mt-4">
-    <h3>Copyright and license</h3>
-    <p>
-        © {{ site.time | date: '%Y' }}
-        {% for static_file in site.static_files %}
-        {% if static_file.path == '/AUTHORS.md' %}
-        {% assign authors_file = true %}
-        {% endif %}
-        {% endfor %}
-        {% if authors_file != true %}<a href="https://publiccode.net/">
-    </a>{% endif %}
-
-    </p>
-    <p>
-        {% for static_file in site.static_files %}
-        {% if static_file.path == '/LICENSE.md' %}
-        {% assign license_file = true %}
-        {% endif %}
-        {% endfor %}
-        {% if license_file %}<a href="{{ site.baseurl }}/LICENSE.html" rel="license">{% endif %}
-        {{ site.license.name | default: site.github.license.name }}
-        {% if license_file %}</a>{% endif %}
-    </p>
-</section>
-{% endif %}
-
