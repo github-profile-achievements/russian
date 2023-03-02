@@ -2,7 +2,8 @@
 
 #### Отображение значков достижений в вашем профиле совершенно необязательно. По-умолчанию достижения может видеть любой, кто просматривает ваш общедоступный профиль.
 
-Вы можете отказаться от отображения достижений в своем профиле, перейдя в [profile settings](https://github.com/settings).
+Вы можете отказаться от отображения достижений в своем профиле, перейдя
+в [profile settings](https://github.com/settings).
 
 <br>
 
@@ -77,7 +78,8 @@
 
 ## Градация некоторых достижений
 
-Для получения большинства значков необходимо произвести некоторое действие однократно, но в ряде случаем действие необходимо произвести несколько раз.
+Для получения большинства значков необходимо произвести некоторое действие однократно, но в ряде случаем действие
+необходимо произвести несколько раз.
 
 <table class="table table-bordered">
 <thead>
@@ -105,7 +107,7 @@
       <td>
         4096 звёзд<br>
         <a href="https://github.com/torvalds?achievement=starstruck&tab=achievements">@torvalds</a>
-        </td>
+      </td>
     </tr>
     <tr>
       <td class="fw-bold">Pair Extraordinaire</td>
@@ -123,9 +125,9 @@
       <td>10 pull requests</td>
       <td>24 pull requests</td>
       <td>
-48 pull requests <br>
-<a href="https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements">@Rongronggg9</a>
-</td>
+        48 pull requests <br>
+        <a href="https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements">@Rongronggg9</a>
+      </td>
     </tr>
     <tr>
       <td class="fw-bold">Pull Shark</td>
@@ -158,11 +160,11 @@
       <td>16 ответов</td>
       <td>
         32 ответа <br>
-        <a href="https://github.com/ljharb?achievement=galaxy-brain&tab=achievements>@ljharb</a>
-    </td>
+        <a href="https://github.com/ljharb?achievement=galaxy-brain&tab=achievements">@ljharb</a>
+      </td>
     </tr>
     <tr>
-      <td class="fw-bold">Heart On Your Sleeve</td>
+      <td class="w-bold">Heart On Your Sleeve</td>
       <td><img alt="Значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png"></td>
       <td><img alt="Бронзовый значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png"></td>
       <td><img alt="Серебряный значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png"></td>
@@ -242,20 +244,72 @@
 
 ## Другие значки на GitHub
 
-| Значок | Название | Как получить? |
-| --- | --- | --- |
-|![Черный GitHub Pro](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![Белый GitHub Pro](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only) | **Pro** | Используйте тарифный план [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
-| ![Темный Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Светлый Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | Ваш ответ в дискуссиях был отмечен как правильный |
-| ![Темный GitHub Developer Program](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![Светлый GitHub Developer Program](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | **Developer Program Member** | Стань зарегистрированным участником программы [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![Темный Security Bug Bounty Hunter](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![Светлый Security Bug Bounty Hunter](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Security Bug Bounty Hunter** | Помогал в поиске уязвимостей на [GitHub Security](https://bounty.github.com/) |
-| ![Темный GitHub Campus Expert](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![Светлый GitHub Campus Expert](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only) | **GitHub Campus Expert** | Принимал участие в [GitHub Campus Program](https://education.github.com/experts) |
-| ![Темный GitHub Advisory Database](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![Светлый GitHub Advisory Database](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only) | **Security advisory credit** | Ваши рекомендации по безопасности были приняты в [GitHub Advisory Database](https://github.com/advisories) |
+<table class="table table-bordered">
+<thead>
+    <tr>
+      <th scope="col">Значок</th>
+      <th scope="col">Название</th>
+      <th scope="col">Как получить?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="Светлый значок GitHub Pro" src="https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only">
+        <img alt="Темный значок GitHub Pro" src="https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only">
+        </td>
+      <td class="fw-bold">Pro</td>
+      <td>Используйте тарифный план [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)</td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Светлый значок Discussion answered" src="https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only">
+        <img alt="Темный значок Discussion answered" src="https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only">
+        </td>
+      <td class="fw-bold">Discussion answered</td>
+      <td>Ваш ответ в дискуссиях был отмечен как правильный</td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Светлый значок Developer Program Member" src="https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only">
+        <img alt="Темный значок Developer Program Member" src="https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only">
+        </td>
+      <td class="fw-bold">Developer Program Member</td>
+      <td>Стань зарегистрированным участником программы [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program)</td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Светлый значок Security Bug Bounty Hunter" src="https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only">
+        <img alt="Темный значок Security Bug Bounty Hunter" src="https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only">
+        </td>
+      <td class="fw-bold">Security Bug Bounty Hunter</td>
+      <td>Помогал в поиске уязвимостей на [GitHub Security](https://bounty.github.com/)</td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Светлый значок GitHub Campus Expert" src="https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only">
+        <img alt="Темный значок GitHub Campus Expert" src="https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only">
+        </td>
+      <td class="fw-bold">GitHub Campus Expert</td>
+      <td>Принимал участие в [GitHub Campus Program](https://education.github.com/experts</td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Светлый значок Security advisory credit" src="https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only">
+        <img alt="Темный значок Security advisory credit" src="https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only">
+        </td>
+      <td class="fw-bold">Security advisory credit</td>
+      <td>Ваши рекомендации по безопасности были приняты в [GitHub Advisory Database](https://github.com/advisories</td>
+    </tr>
+</tbody>
+</table>
 
 <br>
 
 ## Есть предложения?
 
-Если у вас есть вопросы или предложения как улучшить информацию на этой странице, вы всегда можете написать в [issues](https://github.com/github-profile-achievements/russian/issues).
+Если у вас есть вопросы или предложения как улучшить информацию на этой странице, вы всегда можете написать
+в [issues](https://github.com/github-profile-achievements/russian/issues).
 
 [![pages-build-deployment](https://github.com/github-profile-achievements/russian/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/github-profile-achievements/russian/actions/workflows/pages/pages-build-deployment)
 
