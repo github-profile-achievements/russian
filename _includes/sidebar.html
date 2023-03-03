@@ -1,17 +1,16 @@
 <!-- GitHub repository information -->
 {% if site.github %}
 <section class="mt-2">
-    <h3>This site on GitHub</h3>
-    <p>This site was last published {{ site.time | date_to_long_string }} from the <a
-            href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a> repository on GitHub.</p>
+    <h3>Проект на GitHub</h3>
+    <p>
+        Эта страница была в последний раз обновлена {{ site.time | date_to_long_string }}
+        из репозитори <a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a>
+        на GitHub.</p>
 
-    <form id="search-repository" action="{{ site.github.repository_url }}/search" method="GET">
-        <input name="q" type="text" placeholder="Search source on GitHub">
-        <button type="Submit">
-            <i class="bi bi-github"></i> Search
-        </button>
-    </form>
-
+    <a class="btn btn-outline-secondary" role="button" href="https://github.com/github-profile-achievements/russian">
+        <i class="bi bi-github"></i>
+        Мы на GitHub
+    </a>
 </section>
 {% endif %}
 
@@ -20,32 +19,29 @@
 <section class="mt-4">
     {% assign latestRelease = site.github.releases[0] %}
 
-    <h3>Version {{ latestRelease.tag_name }}{% if latestRelease.prerelease == true %} (pre-release){% endif %}</h3>
-    <p>Published <a href="{{ latestRelease.html_url }}">{{ latestRelease.published_at | date_to_long_string }} on
-        GitHub</a></p>
+    <p>
+        Последний релиз
+        {{ latestRelease.tag_name }}{% if latestRelease.prerelease == true %} (pre-release){% endif %}
+    </p>
+
+
     <p>{{ latestRelease.name }}</p>
 
     <ul>
-        {% for asset in latestRelease.assets %}
         <li>
-            <a href="{{ asset.browser_download_url }}" download><code>{{ asset.name }}</code></a>
-        </li>
-        {% endfor %}
-        <li>
-            <a href="{{ site.github.repository_url }}/releases">All releases</a>
+            Опубликован
+            <a href="{{ latestRelease.html_url }}">{{ latestRelease.published_at | date_to_long_string }}</a>
         </li>
         <li>
-            Source archive in
+            Исходный код доступен в архивах
             <a href="{{ latestRelease.zipball_url }}" download><code>.zip</code></a>
-            or
+            и
             <a href="{{ latestRelease.tarball_url }}" download><code>.tar.gz</code></a>
         </li>
+        <li>
+            <a href="{{ site.github.repository_url }}/releases">История релизов</a>
+        </li>
     </ul>
-    {% if site.include_badges %}
-    {% include badges.html %}
-    {% endif %}
-    {% if site.include_translations %}
-    {% include translations.html %}
-    {% endif %}
+
 </section>
 {% endif %}
