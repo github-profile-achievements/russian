@@ -259,7 +259,7 @@
         <img alt="Темный значок GitHub Pro" src="https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only">
         </td>
       <td class="fw-bold">Pro</td>
-      <td>Используйте тарифный план [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)</td>
+      <td>Используйте тарифный план <a href="https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro">GitHub Pro</a></td>
     </tr>
     <tr>
       <td>
@@ -275,7 +275,7 @@
         <img alt="Темный значок Developer Program Member" src="https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only">
         </td>
       <td class="fw-bold">Developer Program Member</td>
-      <td>Стань зарегистрированным участником программы [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program)</td>
+      <td>Стань зарегистрированным участником программы <a href="https://docs.github.com/en/developers/overview/github-developer-program">GitHub Developer Program</a></td>
     </tr>
     <tr>
       <td>
@@ -283,7 +283,7 @@
         <img alt="Темный значок Security Bug Bounty Hunter" src="https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only">
         </td>
       <td class="fw-bold">Security Bug Bounty Hunter</td>
-      <td>Помогал в поиске уязвимостей на [GitHub Security](https://bounty.github.com/)</td>
+      <td>Помогал в поиске уязвимостей на <a href="https://bounty.github.com">GitHub Security</a></td>
     </tr>
     <tr>
       <td>
@@ -291,7 +291,7 @@
         <img alt="Темный значок GitHub Campus Expert" src="https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only">
         </td>
       <td class="fw-bold">GitHub Campus Expert</td>
-      <td>Принимал участие в [GitHub Campus Program](https://education.github.com/experts</td>
+      <td>Принимал участие в <a href="https://education.github.com/experts">GitHub Campus Program</a></td>
     </tr>
     <tr>
       <td>
@@ -299,7 +299,7 @@
         <img alt="Темный значок Security advisory credit" src="https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only">
         </td>
       <td class="fw-bold">Security advisory credit</td>
-      <td>Ваши рекомендации по безопасности были приняты в [GitHub Advisory Database](https://github.com/advisories</td>
+      <td>Ваши рекомендации по безопасности были приняты в <a href="https://github.com/advisories">GitHub Advisory Database</a></td>
     </tr>
 </tbody>
 </table>
