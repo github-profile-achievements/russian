@@ -5,6 +5,14 @@
     max-width: 80px;
 }
 
+.img-lg {
+    max-width: 120px;
+}
+
+h1 {
+    margin-bottom: 24px;
+}
+
 h2 {
     margin-bottom: 24px;
 }
