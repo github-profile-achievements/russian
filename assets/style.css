@@ -4,3 +4,7 @@
 .table tr td img {
     max-width: 80px;
 }
+
+h2 {
+    margin-bottom: 24px;
+}

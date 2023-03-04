@@ -1,6 +1,6 @@
 # Полный список значков и достижений на GitHub
 
-#### Отображение значков достижений в вашем профиле совершенно необязательно. По-умолчанию достижения может видеть любой, кто просматривает ваш общедоступный профиль.
+Отображение значков достижений в вашем профиле совершенно необязательно. По-умолчанию достижения может видеть любой, кто просматривает ваш общедоступный профиль.
 
 Вы можете отказаться от отображения достижений в своем профиле, перейдя
 в [profile settings](https://github.com/settings).
@@ -99,7 +99,7 @@
       <td><img alt="Серебряный значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png"></td>
       <td><img alt="Золотой значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png"></td>
     </tr>
-    <tr>
+    <tr class="text-center">
       <td></td>
       <td>16 звёзд</td>
       <td>128 звёзд</td>
@@ -116,7 +116,7 @@
       <td><img alt="Серебряный значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png"></td>
       <td><img alt="Золотой значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png"></td>
     </tr>
-    <tr>
+    <tr class="text-center">
       <td></td>
       <td>
         1 pull requests <br>
@@ -136,7 +136,7 @@
       <td><img alt="Серебряный значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png"></td>
       <td><img alt="Золотой значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png"></td>
     </tr>
-    <tr>
+    <tr class="text-center">
       <td></td>
       <td>2 pull requests</td>
       <td>16 pull requests</td>
@@ -153,7 +153,7 @@
       <td><img alt="Серебряный значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png"></td>
       <td><img alt="Золотой значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png"></td>
     </tr>
-    <tr>
+    <tr class="text-center">
       <td></td>
       <td>2 ответа</td>
       <td>8 ответов</td>
@@ -170,7 +170,7 @@
       <td><img alt="Серебряный значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png"></td>
       <td><img alt="Золотой значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png"></td>
     </tr>
-    <tr>
+    <tr class="text-center">
       <td></td>
       <td>???</td>
       <td>???</td>
@@ -184,7 +184,7 @@
       <td><img alt="Серебряный значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png"></td>
       <td><img alt="Золотой значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png"></td>
     </tr>
-    <tr>
+    <tr class="text-center">
       <td></td>
       <td>???</td>
       <td>???</td>

@@ -1,19 +1,18 @@
 <!-- GitHub repository information -->
 {% if site.github %}
+<div class="d-grid gap-1">
+    <a class="btn btn-success" role="button" href="https://github.com/github-profile-achievements/russian">
+        <i class="bi bi-github"></i>
+        Эта страница на GitHub
+    </a>
+</div>
+
 <section class="mt-2">
-    <h3>Эта страница на GitHub</h3>
     <p>
         Эта страница была в последний раз обновлена {{ site.time | date_to_long_string }}
         из репозитори <a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a>
-        на GitHub.</p>
-
-    <div class="d-grid gap-1 mt-5">
-        <a class="btn btn-success" role="button" href="https://github.com/github-profile-achievements/russian">
-            <i class="bi bi-github"></i>
-            Эта страница на GitHub
-        </a>
-    </div>
-
+        на GitHub.
+    </p>
 </section>
 {% endif %}
 
