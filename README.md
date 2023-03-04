@@ -99,12 +99,12 @@
       <td><img alt="Серебряный значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png"></td>
       <td><img alt="Золотой значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png"></td>
     </tr>
-    <tr class="text-center">
+    <tr>
       <td></td>
-      <td>16 звёзд</td>
-      <td>128 звёзд</td>
-      <td>512 звёзд</td>
-      <td>
+      <td class="text-center">16 звёзд</td>
+      <td class="text-center">128 звёзд</td>
+      <td class="text-center">512 звёзд</td>
+      <td class="text-center">
         4096 звёзд<br>
         <a href="https://github.com/torvalds?achievement=starstruck&tab=achievements">@torvalds</a>
       </td>
@@ -116,15 +116,15 @@
       <td><img alt="Серебряный значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png"></td>
       <td><img alt="Золотой значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png"></td>
     </tr>
-    <tr class="text-center">
+    <tr>
       <td></td>
-      <td>
+      <td class="text-center">
         1 pull requests <br>
         <a href="https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements">@gomzyakov</a>
       </td>
-      <td>10 pull requests</td>
-      <td>24 pull requests</td>
-      <td>
+      <td class="text-center">10 pull requests</td>
+      <td class="text-center">24 pull requests</td>
+      <td class="text-center">
         48 pull requests <br>
         <a href="https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements">@Rongronggg9</a>
       </td>
@@ -136,12 +136,12 @@
       <td><img alt="Серебряный значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png"></td>
       <td><img alt="Золотой значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png"></td>
     </tr>
-    <tr class="text-center">
+    <tr>
       <td></td>
-      <td>2 pull requests</td>
-      <td>16 pull requests</td>
-      <td>128 pull requests</td>
-      <td>
+      <td class="text-center">2 pull requests</td>
+      <td class="text-center">16 pull requests</td>
+      <td class="text-center">128 pull requests</td>
+      <td class="text-center">
         1024 pull requests<br>
         <a href="https://github.com/ljharb?achievement=pull-shark&tab=achievements">@ljharb</a>
     </td>
@@ -153,12 +153,12 @@
       <td><img alt="Серебряный значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png"></td>
       <td><img alt="Золотой значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png"></td>
     </tr>
-    <tr class="text-center">
+    <tr>
       <td></td>
-      <td>2 ответа</td>
-      <td>8 ответов</td>
-      <td>16 ответов</td>
-      <td>
+      <td class="text-center">2 ответа</td>
+      <td class="text-center">8 ответов</td>
+      <td class="text-center">16 ответов</td>
+      <td class="text-center">
         32 ответа <br>
         <a href="https://github.com/ljharb?achievement=galaxy-brain&tab=achievements">@ljharb</a>
       </td>
@@ -170,12 +170,12 @@
       <td><img alt="Серебряный значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png"></td>
       <td><img alt="Золотой значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png"></td>
     </tr>
-    <tr class="text-center">
+    <tr>
       <td></td>
-      <td>???</td>
-      <td>???</td>
-      <td>???</td>
-      <td>???</td>
+      <td class="text-center">???</td>
+      <td class="text-center">???</td>
+      <td class="text-center">???</td>
+      <td class="text-center">???</td>
     </tr>
     <tr>
       <td class="fw-bold">Open Sourcerer</td>
@@ -184,12 +184,12 @@
       <td><img alt="Серебряный значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png"></td>
       <td><img alt="Золотой значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png"></td>
     </tr>
-    <tr class="text-center">
+    <tr>
       <td></td>
-      <td>???</td>
-      <td>???</td>
-      <td>???</td>
-      <td>???</td>
+      <td class="text-center">???</td>
+      <td class="text-center">???</td>
+      <td class="text-center">???</td>
+      <td class="text-center">???</td>
     </tr>
   </tbody>
 </table>
