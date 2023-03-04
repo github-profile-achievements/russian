@@ -85,19 +85,19 @@
 <thead>
     <tr>
       <th scope="col">Достижение</th>
-      <th scope="col">По-умолчанию</th>
-      <th scope="col">Бронзовый</th>
-      <th scope="col">Серебряный</th>
-      <th scope="col">Золотой</th>
+      <th scope="col" class="text-center">По-умолчанию</th>
+      <th scope="col" class="text-center">Бронзовый</th>
+      <th scope="col" class="text-center">Серебряный</th>
+      <th scope="col" class="text-center">Золотой</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td class="fw-bold">Starstruck</td>
-      <td><img alt="Значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"></td>
-      <td><img alt="Бронзовый значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png"></td>
-      <td><img alt="Серебряный значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png"></td>
-      <td><img alt="Золотой значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png"></td>
+      <td class="text-center"><img alt="Значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"></td>
+      <td class="text-center"><img alt="Бронзовый значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png"></td>
+      <td class="text-center"><img alt="Серебряный значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png"></td>
+      <td class="text-center"><img alt="Золотой значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png"></td>
     </tr>
     <tr>
       <td></td>
@@ -111,10 +111,10 @@
     </tr>
     <tr>
       <td class="fw-bold">Pair Extraordinaire</td>
-      <td><img alt="Значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"></td>
-      <td><img alt="Бронзовый значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png"></td>
-      <td><img alt="Серебряный значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png"></td>
-      <td><img alt="Золотой значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png"></td>
+      <td class="text-center"><img alt="Значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"></td>
+      <td class="text-center"><img alt="Бронзовый значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png"></td>
+      <td class="text-center"><img alt="Серебряный значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png"></td>
+      <td class="text-center"><img alt="Золотой значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png"></td>
     </tr>
     <tr>
       <td></td>
@@ -131,10 +131,10 @@
     </tr>
     <tr>
       <td class="fw-bold">Pull Shark</td>
-      <td><img alt="Значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"></td>
-      <td><img alt="Бронзовый значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png"></td>
-      <td><img alt="Серебряный значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png"></td>
-      <td><img alt="Золотой значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png"></td>
+      <td class="text-center"><img alt="Значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"></td>
+      <td class="text-center"><img alt="Бронзовый значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png"></td>
+      <td class="text-center"><img alt="Серебряный значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png"></td>
+      <td class="text-center"><img alt="Золотой значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png"></td>
     </tr>
     <tr>
       <td></td>
@@ -148,10 +148,10 @@
     </tr>
     <tr>
       <td class="fw-bold">Galaxy Brain</td>
-      <td><img alt="Значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png"></td>
-      <td><img alt="Бронзовый значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png"></td>
-      <td><img alt="Серебряный значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png"></td>
-      <td><img alt="Золотой значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png"></td>
+      <td class="text-center"><img alt="Значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png"></td>
+      <td class="text-center"><img alt="Бронзовый значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png"></td>
+      <td class="text-center"><img alt="Серебряный значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png"></td>
+      <td class="text-center"><img alt="Золотой значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png"></td>
     </tr>
     <tr>
       <td></td>
@@ -165,10 +165,10 @@
     </tr>
     <tr>
       <td class="w-bold">Heart On Your Sleeve</td>
-      <td><img alt="Значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png"></td>
-      <td><img alt="Бронзовый значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png"></td>
-      <td><img alt="Серебряный значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png"></td>
-      <td><img alt="Золотой значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png"></td>
+      <td class="text-center"><img alt="Значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png"></td>
+      <td class="text-center"><img alt="Бронзовый значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png"></td>
+      <td class="text-center"><img alt="Серебряный значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png"></td>
+      <td class="text-center"><img alt="Золотой значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png"></td>
     </tr>
     <tr>
       <td></td>
@@ -179,10 +179,10 @@
     </tr>
     <tr>
       <td class="fw-bold">Open Sourcerer</td>
-      <td><img alt="Значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png"></td>
-      <td><img alt="Бронзовый значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png"></td>
-      <td><img alt="Серебряный значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png"></td>
-      <td><img alt="Золотой значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png"></td>
+      <td class="text-center"><img alt="Значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png"></td>
+      <td class="text-center"><img alt="Бронзовый значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png"></td>
+      <td class="text-center"><img alt="Серебряный значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png"></td>
+      <td class="text-center"><img alt="Золотой значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png"></td>
     </tr>
     <tr>
       <td></td>
