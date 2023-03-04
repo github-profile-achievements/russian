@@ -1,31 +1,31 @@
 <!-- GitHub repository information -->
 {% if site.github %}
 <section class="mt-2">
-    <h3>Проект на GitHub</h3>
+    <h3>Эта страница на GitHub</h3>
     <p>
         Эта страница была в последний раз обновлена {{ site.time | date_to_long_string }}
         из репозитори <a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a>
         на GitHub.</p>
 
-    <a class="btn btn-outline-secondary" role="button" href="https://github.com/github-profile-achievements/russian">
-        <i class="bi bi-github"></i>
-        Мы на GitHub
-    </a>
+    <div class="d-grid gap-1">
+        <a class="btn btn-outline-success" role="button" href="https://github.com/github-profile-achievements/russian">
+            <i class="bi bi-github"></i>
+            Мы на GitHub
+        </a>
+    </div>
+
 </section>
 {% endif %}
 
 <!-- Release information -->
 {% if site.github and site.github.releases and site.github.releases[0] %}
-<section class="mt-4">
+<section class="mt-5">
     {% assign latestRelease = site.github.releases[0] %}
 
     <p>
-        Последний релиз
-        {{ latestRelease.tag_name }}{% if latestRelease.prerelease == true %} (pre-release){% endif %}
+        Последний релиз:
+        <strong>{{ latestRelease.tag_name }}{% if latestRelease.prerelease == true %} (pre-release){% endif %}</strong>
     </p>
-
-
-    <p>{{ latestRelease.name }}</p>
 
     <ul>
         <li>
