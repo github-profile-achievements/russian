@@ -82,135 +82,22 @@
 Для получения большинства значков необходимо произвести некоторое действие однократно, но в ряде случаем действие
 необходимо произвести несколько раз.
 
-<table class="table table-bordered">
-<thead>
-    <tr>
-      <th scope="col">Достижение</th>
-      <th scope="col" class="text-center">По-умолчанию</th>
-      <th scope="col" class="text-center">Бронзовый</th>
-      <th scope="col" class="text-center">Серебряный</th>
-      <th scope="col" class="text-center">Золотой</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="fw-bold">Starstruck</td>
-      <td class="text-center"><img alt="Значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"></td>
-      <td class="text-center"><img alt="Бронзовый значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png"></td>
-      <td class="text-center"><img alt="Серебряный значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png"></td>
-      <td class="text-center"><img alt="Золотой значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png"></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td class="text-center">16 звёзд</td>
-      <td class="text-center">128 звёзд</td>
-      <td class="text-center">512 звёзд</td>
-      <td class="text-center">
-        4096 звёзд<br>
-        <a href="https://github.com/torvalds?achievement=starstruck&tab=achievements">@torvalds</a>
-      </td>
-    </tr>
-    <tr>
-      <td class="fw-bold">Pair Extraordinaire</td>
-      <td class="text-center"><img alt="Значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"></td>
-      <td class="text-center"><img alt="Бронзовый значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png"></td>
-      <td class="text-center"><img alt="Серебряный значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png"></td>
-      <td class="text-center"><img alt="Золотой значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png"></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td class="text-center">
-        1 pull requests <br>
-        <a href="https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements">@gomzyakov</a>
-      </td>
-      <td class="text-center">10 pull requests</td>
-      <td class="text-center">24 pull requests</td>
-      <td class="text-center">
-        48 pull requests <br>
-        <a href="https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements">@Rongronggg9</a>
-      </td>
-    </tr>
-    <tr>
-      <td class="fw-bold">Pull Shark</td>
-      <td class="text-center"><img alt="Значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"></td>
-      <td class="text-center"><img alt="Бронзовый значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png"></td>
-      <td class="text-center"><img alt="Серебряный значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png"></td>
-      <td class="text-center"><img alt="Золотой значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png"></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td class="text-center">2 pull requests</td>
-      <td class="text-center">16 pull requests</td>
-      <td class="text-center">128 pull requests</td>
-      <td class="text-center">
-        1024 pull requests<br>
-        <a href="https://github.com/ljharb?achievement=pull-shark&tab=achievements">@ljharb</a>
-    </td>
-    </tr>
-    <tr>
-      <td class="fw-bold">Galaxy Brain</td>
-      <td class="text-center"><img alt="Значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png"></td>
-      <td class="text-center"><img alt="Бронзовый значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png"></td>
-      <td class="text-center"><img alt="Серебряный значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png"></td>
-      <td class="text-center"><img alt="Золотой значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png"></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td class="text-center">2 ответа</td>
-      <td class="text-center">8 ответов</td>
-      <td class="text-center">16 ответов</td>
-      <td class="text-center">
-        32 ответа <br>
-        <a href="https://github.com/ljharb?achievement=galaxy-brain&tab=achievements">@ljharb</a>
-      </td>
-    </tr>
-    <tr>
-      <td class="w-bold">Heart On Your Sleeve</td>
-      <td class="text-center"><img alt="Значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png"></td>
-      <td class="text-center"><img alt="Бронзовый значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png"></td>
-      <td class="text-center"><img alt="Серебряный значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png"></td>
-      <td class="text-center"><img alt="Золотой значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png"></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td class="text-center">???</td>
-      <td class="text-center">???</td>
-      <td class="text-center">???</td>
-      <td class="text-center">???</td>
-    </tr>
-    <tr>
-      <td class="fw-bold">Open Sourcerer</td>
-      <td class="text-center"><img alt="Значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png"></td>
-      <td class="text-center"><img alt="Бронзовый значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png"></td>
-      <td class="text-center"><img alt="Серебряный значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png"></td>
-      <td class="text-center"><img alt="Золотой значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png"></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td class="text-center">???</td>
-      <td class="text-center">???</td>
-      <td class="text-center">???</td>
-      <td class="text-center">???</td>
-    </tr>
-  </tbody>
-</table>
+| Достижение               |   По-умолчанию    |    Бронзовый     |    Серебряный     |        Золотой        |
+|:-------------------------|:-----------------:|:----------------:|:-----------------:|:---------------------:|
+| **Starstruck**           |  ![][ss-default]  |  ![][ss-bronze]  |  ![][ss-silver]   |     ![][ss-gold]      |
+|                          |     16 stars      |    128 stars     |     512 stars     | [4096 stars][ss-4096] |
+| **Pair Extraordinaire**  |  ![][pe-default]  |  ![][pe-bronze]  |  ![][pe-silver]   |     ![][pe-gold]      |
+|                          |   [1 PR][pe-1]    | 10 pull requests | 24 pull requests  |    [48 PR][pe-48]     |
+| **Pull Shark**           |  ![][ps-default]  |  ![][ps-bronze]  |  ![][ps-silver]   |     ![][ps-gold]      |
+|                          |  2 pull requests  | 16 pull requests | 128 pull requests |  [1024 PR][ps-1024]   |
+| **Galaxy Brain**         |  ![][gb-default]  |  ![][gb-bronze]  |  ![][gb-silver]   |     ![][gb-gold]      |
+|                          |     2 answers     |    8 answers     |    16 answers     |  [32 answers][gb-32]  |
+| **Heart On Your Sleeve** | ![][hoys-default] | ![][hoys-bronze] | ![][hoys-silver]  |    ![][hoys-gold]     | 
+|                          |        ???        |       ???        |        ???        |          ???          |
+| **Open Sourcerer**       |  ![][os-default]  |  ![][os-bronze]  |  ![][os-silver]   |     ![][os-gold]      | 
+|                          |        ???        |       ???        |        ???        |          ???          |
 
 Все остальные значки на GitHub даются за однократное выполнение условий.
-
-| Достижение               |   По-умолчанию    |    Бронзовый     |    Серебряный     |                                                       Золотой                                                        |
-|:-------------------------|:-----------------:|:----------------:|:-----------------:|:--------------------------------------------------------------------------------------------------------------------:|
-| **Starstruck**           |  ![][ss-default]  |  ![][ss-bronze]  |  ![][ss-silver]   |                                                     ![][ss-gold]                                                     |
-|                          |     16 stars      |    128 stars     |     512 stars     |                                                [4096 stars][ss-4096]                                                 |
-| **Pair Extraordinaire**  |  ![][pe-default]  |  ![][pe-bronze]  |  ![][pe-silver]   |                                      ![Gold badge Pair Extraordinaire][pe-gold]                                      |
-|                          |   [1 PR][pe-1]    | 10 pull requests | 24 pull requests  | 48 pull requests <br>[@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements) |
-| **Pull Shark**           |  ![][ps-default]  |  ![][ps-bronze]  |  ![][ps-silver]   |                                          ![Gold badge Pull Shark][ps-gold]                                           |
-|                          |  2 pull requests  | 16 pull requests | 128 pull requests |         1024 pull requests <br>[@ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements)          |
-| **Galaxy Brain**         |  ![][gb-default]  |  ![][gb-bronze]  |  ![][gb-silver]   |                                         ![Gold badge Galaxy Brain][gb-gold]                                          |
-|                          |     2 answers     |    8 answers     |    16 answers     |            32 answers <br>[@ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)             |
-| **Heart On Your Sleeve** | ![][hoys-default] | ![][hoys-bronze] | ![][hoys-silver]  |                                                    ![][hoys-gold]                                                    | 
-|                          |        ???        |       ???        |        ???        |                                                         ???                                                          |
-| **Open Sourcerer**       |  ![][os-default]  |  ![][os-bronze]  |  ![][os-silver]   |                                                     ![][os-gold]                                                     | 
-|                          |        ???        |       ???        |        ???        |                                                         ???                                                          |
 
 <!-- Ссылки на изображения значков Starstruck -->
 [ss-default]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
@@ -229,6 +116,7 @@
 
 <!-- Ссылки на примеры достижений Pair Extraordinaire (разных уровней) -->
 [pe-1]: https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements
+[pe-48]: https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements
 
 <!-- Ссылки на изображения значков Pull Shark -->
 [ps-default]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png
@@ -236,11 +124,17 @@
 [ps-silver]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png
 [ps-gold]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png
 
+<!-- Ссылки на примеры достижений Pull Shark (разных уровней) -->
+[ps-1024]: https://github.com/ljharb?achievement=pull-shark&tab=achievements
+
 <!-- Ссылки на изображения значков Galaxy Brain -->
 [gb-default]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png
 [gb-bronze]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png
 [gb-silver]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png
 [gb-gold]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png
+
+<!-- Ссылки на примеры достижений Galaxy Brain (разных уровней) -->
+[gb-32]: https://github.com/ljharb?achievement=galaxy-brain&tab=achievements
 
 <!-- Ссылки на изображения значков Heart On Your Sleeve -->
 [hoys-default]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png
