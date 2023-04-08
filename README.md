@@ -1,6 +1,7 @@
 # Полный список значков и достижений на GitHub
 
-Отображение значков достижений в вашем профиле совершенно необязательно. По-умолчанию достижения может видеть любой, кто просматривает ваш общедоступный профиль.
+Отображение значков достижений в вашем профиле совершенно необязательно. По-умолчанию достижения может видеть любой, кто
+просматривает ваш общедоступный профиль.
 
 Вы можете отказаться от отображения достижений в своем профиле, перейдя
 в [profile settings](https://github.com/settings).
@@ -195,6 +196,64 @@
 </table>
 
 Все остальные значки на GitHub даются за однократное выполнение условий.
+
+| Достижение               |               По-умолчанию                |                                                                 Бронзовый                                                                 |                                                                Серебряный                                                                 |                                                                Золотой                                                                |
+|:-------------------------|:-----------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
+| **Starstruck**           |         ![Значок Starstruck][ss]          |           ![Bronze badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png)           |           ![Silver badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png)           |           ![Gold badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png)           |
+|                          |                 16 stars                  |                                                                 128 stars                                                                 |                                                                 512 stars                                                                 |                    4096 stars <br>[@torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements)                    |
+| **Pair Extraordinaire**  | ![Значок Pair Extraordinaire][pe-default] |                                              ![Bronze badge Pair Extraordinaire][pe-bronze]                                               |                                              ![Silver badge Pair Extraordinaire][pe-silver]                                               |                                              ![Gold badge Pair Extraordinaire][pe-gold]                                               |
+|                          |               [1 PR][pe-1]                |                                                             10 pull requests                                                              |                                                             24 pull requests                                                              |         48 pull requests <br>[@Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)          |
+| **Pull Shark**           |     ![Значок Pull Shark][ps-default]      |                                                   ![Bronze badge Pull Shark][ps-bronze]                                                   |                                                   ![Silver badge Pull Shark][ps-silver]                                                   |                                                   ![Gold badge Pull Shark][ps-gold]                                                   |
+|                          |              2 pull requests              |                                                             16 pull requests                                                              |                                                             128 pull requests                                                             |                  1024 pull requests <br>[@ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements)                  |
+| **Galaxy Brain**         |    ![Значок Galaxy Brain][gb-default]     |                                                  ![Bronze badge Galaxy Brain][gb-bronze]                                                  |                                                  ![Silver badge Galaxy Brain][gb-silver]                                                  |                                                  ![Gold badge Galaxy Brain][gb-gold]                                                  |
+|                          |                 2 answers                 |                                                                 8 answers                                                                 |                                                                16 answers                                                                 |                     32 answers <br>[@ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)                     |
+| **Heart On Your Sleeve** |   ![Значок Heart On Your Sleeve][hoys]    | ![Bronze badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png) | ![Silver badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png) | ![Gold badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png) |
+|                          |                    ???                    |                                                                    ???                                                                    |                                                                    ???                                                                    |                                                                  ???                                                                  |
+| **Open Sourcerer**       |       ![Значок Open Sourcerer][os]        |       ![Bronze badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png)       |       ![Silver badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png)       |       ![Gold badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png)       |
+|                          |                    ???                    |                                                                    ???                                                                    |                                                                    ???                                                                    |                                                                  ???                                                                  |
+
+<!-- Ссылки на изображения значков Starstruck -->
+
+[ss]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
+[ss-bronze]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png
+[ss-silver]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png
+[ss-gold]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png
+
+<!-- Ссылки на примеры достижений Starstruck (разных уровней) -->
+
+
+<!-- Ссылки на изображения значков XXX -->
+
+[pe-default]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png
+[pe-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png
+[pe-silver]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png
+[pe-gold]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png
+
+<!-- Ссылки на примеры достижений Starstruck (разных уровней) -->
+
+[pe-1]: https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements
+
+<!-- Ссылки на изображения значков XXX -->
+
+[ps-default]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png
+[ps-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png
+[ps-silver]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png
+[ps-gold]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png
+
+<!-- Ссылки на изображения значков XXX -->
+
+[gb-default]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png
+[gb-bronze]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png
+[gb-silver]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png
+[gb-gold]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png
+
+<!-- Ссылки на изображения значков XXX -->
+
+[hoys]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png
+
+<!-- Ссылки на изображения значков XXX -->
+
+[os]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png
 
 <br>
 
