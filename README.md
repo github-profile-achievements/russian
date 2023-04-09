@@ -8,24 +8,30 @@
 
 |                                 Значок                                 | Название                          | Как получить?                                                                                                                                                                                                           |
 |:----------------------------------------------------------------------:|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|             ![Значок за достижение Starstruck][ss-default]             | **Starstruck**                    | Созданный вами репозиторий должен получить <span class="fw-bold">16 звёзд</span> или больше.                                                                                                                            |
+|             ![Значок за достижение Starstruck][starstruck]             | **Starstruck**                    | Созданный вами репозиторий должен получить <span class="fw-bold">16 звёзд</span> или больше.                                                                                                                            |
 |              ![Значок за достижение Quickdraw][quickdraw]              | **Quickdraw**                     | Выдаётся, если вы хотя бы один раз закрыли `issue` или смержили `pull request` <span class="fw-bold">в течение 5 минут</span> после открытия.                                                                           |
-|        ![Значок за достижение Pair Extraordinaire][pe-default]         | **Pair Extraordinaire**           | Был смёржен один или несколько `pull request`, который вы делали в соавторстве с другими разработчиками.                                                                                                                |
-|             ![Значок за достижение Pull Shark][ps-default]             | **Pull Shark**                    | Было принято (смержено) два открытых вами `pull request`-а (или больше).                                                                                                                                                |
-|            ![Значок за достижение Galaxy Brain][gb-default]            | **Galaxy Brain**                  | Автор дискуссии принял два (или больше) ваших ответа (нажал `Mark as answer`).                                                                                                                                          |
+|    ![Значок за достижение Pair Extraordinaire][pair-extraordinaire]    | **Pair Extraordinaire**           | Был смёржен один или несколько `pull request`, который вы делали в соавторстве с другими разработчиками.                                                                                                                |
+|             ![Значок за достижение Pull Shark][pull-shark]             | **Pull Shark**                    | Было принято (смержено) два открытых вами `pull request`-а (или больше).                                                                                                                                                |
+|           ![Значок за достижение Galaxy Brain][galaxy-brain]           | **Galaxy Brain**                  | Автор дискуссии принял два (или больше) ваших ответа (нажал `Mark as answer`).                                                                                                                                          |
 |                   ![Значок за достижение YOLO][yolo]                   | **YOLO**                          | Выдаётся, если хотя бы один ваш `pull request` был принят без замечаний (автор не написал ни одного треда и смёржил правки).                                                                                            |
 |         ![Значок за достижение Public Sponsor][public-sponsor]         | **Public Sponsor**                | Выдаётся, если вы хотя бы один раз спонсировали oupensorce-проект или разработчика на GitHub.                                                                                                                           |
 |        ![Значок за достижение Mars 2020 Contributor][mars-2020]        | **Mars 2020 Contributor**         | Сделали вклад в один из репозиториев проекта <a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">Mars 2020 Helicopter Mission</a>. Выдавался за хотя бы 1 случай вклада. *Больше нельзя заработать.* |
 | ![Значок за достижение 2020 GitHub Archive Program][arctic-code-vault] | **Arctic Code Vault Contributor** | Ваш код был включён в программу <a href="https://archiveprogram.github.com">2020 GitHub Archive Program</a>. Выдавался за хотя бы 1 случай вклада. *Больше нельзя заработать.*                                          |
-|       ![Значок за достижение Heart On Your Sleeve][hoys-default]       | **Heart On Your Sleeve**          | ???                                                                                                                                                                                                                     |
-|           ![Значок за достижение Open Sourcerer][os-default]           | **Open Sourcerer**                | ???                                                                                                                                                                                                                     |
+|   ![Значок за достижение Heart On Your Sleeve][heart-on-your-sleeve]   | **Heart On Your Sleeve**          | ???                                                                                                                                                                                                                     |
+|         ![Значок за достижение Open Sourcerer][open-sourcerer]         | **Open Sourcerer**                | ???                                                                                                                                                                                                                     |
 
 <!-- Значки не имеющие градаций по уровням -->
+[starstruck]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
 [quickdraw]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
+[pair-extraordinaire]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png
+[pull-shark]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png
+[galaxy-brain]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png
 [yolo]: https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png
 [public-sponsor]: https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png
 [mars-2020]: https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png
 [arctic-code-vault]: https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png
+[heart-on-your-sleeve]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png
+[open-sourcerer]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png
 
 <br>
 
@@ -34,68 +40,62 @@
 Для получения большинства значков необходимо произвести некоторое действие однократно, но в ряде случаем действие
 необходимо произвести несколько раз.
 
-| Достижение               |   По-умолчанию    |    Бронзовый     |    Серебряный     |        Золотой        |
-|:-------------------------|:-----------------:|:----------------:|:-----------------:|:---------------------:|
-| **Starstruck**           |  ![][ss-default]  |  ![][ss-bronze]  |  ![][ss-silver]   |     ![][ss-gold]      |
-|                          |     16 stars      |    128 stars     |     512 stars     | [4096 stars][ss-4096] |
-| **Pair Extraordinaire**  |  ![][pe-default]  |  ![][pe-bronze]  |  ![][pe-silver]   |     ![][pe-gold]      |
-|                          |   [1 PR][pe-1]    | 10 pull requests | 24 pull requests  |    [48 PR][pe-48]     |
-| **Pull Shark**           |  ![][ps-default]  |  ![][ps-bronze]  |  ![][ps-silver]   |     ![][ps-gold]      |
-|                          |  2 pull requests  | 16 pull requests | 128 pull requests |  [1024 PR][ps-1024]   |
-| **Galaxy Brain**         |  ![][gb-default]  |  ![][gb-bronze]  |  ![][gb-silver]   |     ![][gb-gold]      |
-|                          |     2 answers     |    8 answers     |    16 answers     |  [32 answers][gb-32]  |
-| **Heart On Your Sleeve** | ![][hoys-default] | ![][hoys-bronze] | ![][hoys-silver]  |    ![][hoys-gold]     | 
-|                          |        ???        |       ???        |        ???        |          ???          |
-| **Open Sourcerer**       |  ![][os-default]  |  ![][os-bronze]  |  ![][os-silver]   |     ![][os-gold]      | 
-|                          |        ???        |       ???        |        ???        |          ???          |
+| Достижение               |       По-умолчанию        |    Бронзовый     |    Серебряный     |        Золотой        |
+|:-------------------------|:-------------------------:|:----------------:|:-----------------:|:---------------------:|
+| **Starstruck**           |      ![][starstruck]      |  ![][ss-bronze]  |  ![][ss-silver]   |     ![][ss-gold]      |
+|                          |         16 stars          |    128 stars     |     512 stars     | [4096 stars][ss-4096] |
+| **Pair Extraordinaire**  | ![][pair-extraordinaire]  |  ![][pe-bronze]  |  ![][pe-silver]   |     ![][pe-gold]      |
+|                          |       [1 PR][pe-1]        | 10 pull requests | 24 pull requests  |    [48 PR][pe-48]     |
+| **Pull Shark**           |      ![][pull-shark]      |  ![][ps-bronze]  |  ![][ps-silver]   |     ![][ps-gold]      |
+|                          |      2 pull requests      | 16 pull requests | 128 pull requests |  [1024 PR][ps-1024]   |
+| **Galaxy Brain**         |     ![][galaxy-brain]     |  ![][gb-bronze]  |  ![][gb-silver]   |     ![][gb-gold]      |
+|                          |         2 answers         |    8 answers     |    16 answers     |  [32 answers][gb-32]  |
+| **Heart On Your Sleeve** | ![][heart-on-your-sleeve] | ![][hoys-bronze] | ![][hoys-silver]  |    ![][hoys-gold]     | 
+|                          |            ???            |       ???        |        ???        |          ???          |
+| **Open Sourcerer**       |    ![][open-sourcerer]    |  ![][os-bronze]  |  ![][os-silver]   |     ![][os-gold]      | 
+|                          |            ???            |       ???        |        ???        |          ???          |
 
 Все остальные значки на GitHub даются за однократное выполнение условий.
 
-<!-- Ссылки на изображения значков Starstruck -->
-[ss-default]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
+<!-- Градации значков Starstruck -->
 [ss-bronze]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png
 [ss-silver]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png
 [ss-gold]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png
 
-<!-- Ссылки на примеры достижений Starstruck (разных уровней) -->
+<!-- Ссылки на пользователей, получивших достижение Starstruck разных уровней -->
 [ss-4096]: https://github.com/torvalds?achievement=starstruck&tab=achievements
 
-<!-- Ссылки на изображения значков Pair Extraordinaire -->
-[pe-default]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png
+<!-- Градации значков Pair Extraordinaire -->
 [pe-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png
 [pe-silver]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png
 [pe-gold]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png
 
-<!-- Ссылки на примеры достижений Pair Extraordinaire (разных уровней) -->
+<!-- Ссылки на пользователей, получивших достижение Pair Extraordinaire разных уровней -->
 [pe-1]: https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements
 [pe-48]: https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements
 
-<!-- Ссылки на изображения значков Pull Shark -->
-[ps-default]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png
+<!-- Градации значков Pull Shark -->
 [ps-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png
 [ps-silver]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png
 [ps-gold]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png
 
-<!-- Ссылки на примеры достижений Pull Shark (разных уровней) -->
+<!-- Ссылки на пользователей, получивших достижение Pull Shark разных уровней -->
 [ps-1024]: https://github.com/ljharb?achievement=pull-shark&tab=achievements
 
-<!-- Ссылки на изображения значков Galaxy Brain -->
-[gb-default]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png
+<!-- Градации значков Galaxy Brain -->
 [gb-bronze]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png
 [gb-silver]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png
 [gb-gold]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png
 
-<!-- Ссылки на примеры достижений Galaxy Brain (разных уровней) -->
+<!-- Ссылки на пользователей, получивших достижение Galaxy Brain разных уровней -->
 [gb-32]: https://github.com/ljharb?achievement=galaxy-brain&tab=achievements
 
-<!-- Ссылки на изображения значков Heart On Your Sleeve -->
-[hoys-default]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png
+<!-- Градации значков Heart On Your Sleeve -->
 [hoys-bronze]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png
 [hoys-silver]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png
 [hoys-gold]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png
 
-<!-- Ссылки на изображения значков Open Sourcerer -->
-[os-default]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png
+<!-- Градации значков Open Sourcerer -->
 [os-bronze]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png
 [os-silver]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png
 [os-gold]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png
