@@ -1,81 +1,31 @@
 # Полный список значков и достижений на GitHub
 
-Отображение значков достижений в вашем профиле совершенно необязательно. По-умолчанию достижения может видеть любой, кто
-просматривает ваш общедоступный профиль.
+Отображение значков достижений в вашем профиле совершенно необязательно. По-умолчанию достижения может видеть любой, кто просматривает ваш общедоступный профиль.
 
-Вы можете отказаться от отображения достижений в своем профиле, перейдя
-в [profile settings](https://github.com/settings).
+Вы можете отказаться от отображения достижений в своем профиле, перейдя в [настройки профиля](https://github.com/settings).
 
 <br>
 
-<table class="table table-bordered">
-<thead>
-    <tr>
-      <th scope="col">Значок</th>
-      <th scope="col">Название</th>
-      <th scope="col">Как получить?</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img alt="Значок Heart On Your Sleeve" src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" class="img-lg"></td>
-      <td class="fw-bold">Heart On Your Sleeve</td>
-      <td>???</td>
-    </tr>
-    <tr>
-      <td><img alt="Значок Open Sourcerer" src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" class="img-lg"></td>
-      <td class="fw-bold">Open Sourcerer</td>
-      <td>???</td>
-    </tr>
-    <tr>
-      <td><img alt="Значок Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" class="img-lg"></td>
-      <td class="fw-bold">Starstruck</td>
-      <td>Созданный вами репозиторий должен получить <span class="fw-bold">16 звёзд</span> или больше.</td>
-    </tr>
-    <tr>
-      <td><img alt="Значок Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" class="img-lg"></td>
-      <td class="fw-bold">Quickdraw</td>
-      <td>Выдаётся, если вы хотя бы один раз закрыли `issue` или смержили `pull request` <span class="fw-bold">в течение 5 минут</span> после открытия.</td>
-    </tr>
-    <tr>
-      <td><img alt="Значок Pair Extraordinaire" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" class="img-lg"></td>
-      <td class="fw-bold">Pair Extraordinaire</td>
-      <td>Был смёржен один или несколько `pull request`, который вы делали в соавторстве с другими разработчиками.</td>
-    </tr>
-    <tr>
-      <td><img alt="Значок Pull Shark" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" class="img-lg"></td>
-      <td class="fw-bold">Pull Shark</td>
-      <td>Было принято (смержено) два открытых вами `pull request`-а (или больше).</td>
-    </tr>
-    <tr>
-      <td><img alt="Значок Galaxy Brain" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" class="img-lg"></td>
-      <td class="fw-bold">Galaxy Brain</td>
-      <td>Автор дискуссии принял два (или больше) ваших ответа (нажал `Mark as answer`).</td>
-    </tr>
-    <tr>
-      <td><img alt="Значок YOLO" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" class="img-lg"></td>
-      <td class="fw-bold">YOLO</td>
-      <td>Выдаётся, если хотя бы один ваш `pull request` был принят без замечаний (автор не написал ни одного треда и смёржил правки).</td>
-    </tr>
-    <tr>
-      <td><img alt="Значок Public Sponsor" src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" class="img-lg"></td>
-      <td class="fw-bold">Public Sponsor</td>
-      <td>Выдаётся, если вы хотя бы один раз спонсировали oupensorce-проект или разработчика на GitHub.</td>
-    </tr>
-    <tr>
-      <td><img alt="Значок Mars 2020 Contributor" src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" class="img-lg"></td>
-      <td class="fw-bold">Mars 2020 Contributor</td>
-      <td>Сделали вклад в один из репозиториев проекта <a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">Mars 2020 Helicopter Mission</a>. Выдавался за хотя бы 1 случай вклада. Больше нельзя заработать.</td>
-    </tr>
-    <tr>
-      <td><img alt="Значок 2020 GitHub Archive Program" src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" class="img-lg"></td>
-      <td class="fw-bold">Arctic Code Vault Contributor</td>
-      <td>Ваш код был включён в программу <a href="https://archiveprogram.github.com">2020 GitHub Archive Program</a>. Выдавался за хотя бы 1 случай вклада. Больше нельзя заработать.</td>
-    </tr>
-  </tbody>
-</table>
+|                                 Значок                                 | Название                          | Как получить?                                                                                                                                                                                                           |
+|:----------------------------------------------------------------------:|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|             ![Значок за достижение Starstruck][ss-default]             | **Starstruck**                    | Созданный вами репозиторий должен получить <span class="fw-bold">16 звёзд</span> или больше.                                                                                                                            |
+|              ![Значок за достижение Quickdraw][quickdraw]              | **Quickdraw**                     | Выдаётся, если вы хотя бы один раз закрыли `issue` или смержили `pull request` <span class="fw-bold">в течение 5 минут</span> после открытия.                                                                           |
+|        ![Значок за достижение Pair Extraordinaire][pe-default]         | **Pair Extraordinaire**           | Был смёржен один или несколько `pull request`, который вы делали в соавторстве с другими разработчиками.                                                                                                                |
+|             ![Значок за достижение Pull Shark][ps-default]             | **Pull Shark**                    | Было принято (смержено) два открытых вами `pull request`-а (или больше).                                                                                                                                                |
+|            ![Значок за достижение Galaxy Brain][gb-default]            | **Galaxy Brain**                  | Автор дискуссии принял два (или больше) ваших ответа (нажал `Mark as answer`).                                                                                                                                          |
+|                   ![Значок за достижение YOLO][yolo]                   | **YOLO**                          | Выдаётся, если хотя бы один ваш `pull request` был принят без замечаний (автор не написал ни одного треда и смёржил правки).                                                                                            |
+|         ![Значок за достижение Public Sponsor][public-sponsor]         | **Public Sponsor**                | Выдаётся, если вы хотя бы один раз спонсировали oupensorce-проект или разработчика на GitHub.                                                                                                                           |
+|        ![Значок за достижение Mars 2020 Contributor][mars-2020]        | **Mars 2020 Contributor**         | Сделали вклад в один из репозиториев проекта <a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">Mars 2020 Helicopter Mission</a>. Выдавался за хотя бы 1 случай вклада. *Больше нельзя заработать.* |
+| ![Значок за достижение 2020 GitHub Archive Program][arctic-code-vault] | **Arctic Code Vault Contributor** | Ваш код был включён в программу <a href="https://archiveprogram.github.com">2020 GitHub Archive Program</a>. Выдавался за хотя бы 1 случай вклада. *Больше нельзя заработать.*                                          |
+|       ![Значок за достижение Heart On Your Sleeve][hoys-default]       | **Heart On Your Sleeve**          | ???                                                                                                                                                                                                                     |
+|           ![Значок за достижение Open Sourcerer][os-default]           | **Open Sourcerer**                | ???                                                                                                                                                                                                                     |
 
-<br>
+<!-- Значки не имеющие градаций по уровням -->
+[quickdraw]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
+[yolo]: https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png
+[public-sponsor]: https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png
+[mars-2020]: https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png
+[arctic-code-vault]: https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png
 
 ## Градация некоторых достижений
 
