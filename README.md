@@ -135,67 +135,28 @@
 
 ## Другие значки на GitHub
 
-<table class="table table-bordered">
-<thead>
-    <tr>
-      <th scope="col">Значок</th>
-      <th scope="col">Название</th>
-      <th scope="col">Как получить?</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img alt="Светлый значок GitHub Pro" src="https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only">&nbsp;
-        <img alt="Темный значок GitHub Pro" src="https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only">
-        </td>
-      <td class="fw-bold">Pro</td>
-      <td>Используйте тарифный план <a href="https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro">GitHub Pro</a></td>
-    </tr>
-    <tr>
-      <td>
-        <img alt="Светлый значок Discussion answered" src="https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only">&nbsp;
-        <img alt="Темный значок Discussion answered" src="https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only">
-        </td>
-      <td class="fw-bold">Discussion answered</td>
-      <td>Ваш ответ в дискуссиях был отмечен как правильный</td>
-    </tr>
-    <tr>
-      <td>
-        <img alt="Светлый значок Developer Program Member" src="https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only">&nbsp;
-        <img alt="Темный значок Developer Program Member" src="https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only">
-        </td>
-      <td class="fw-bold">Developer Program Member</td>
-      <td>Стань зарегистрированным участником программы <a href="https://docs.github.com/en/developers/overview/github-developer-program">GitHub Developer Program</a></td>
-    </tr>
-    <tr>
-      <td>
-        <img alt="Светлый значок Security Bug Bounty Hunter" src="https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only">&nbsp;
-        <img alt="Темный значок Security Bug Bounty Hunter" src="https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only">
-        </td>
-      <td class="fw-bold">Security Bug Bounty Hunter</td>
-      <td>Помогал в поиске уязвимостей на <a href="https://bounty.github.com">GitHub Security</a></td>
-    </tr>
-    <tr>
-      <td>
-        <img alt="Светлый значок GitHub Campus Expert" src="https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only">&nbsp;
-        <img alt="Темный значок GitHub Campus Expert" src="https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only">
-        </td>
-      <td class="fw-bold">GitHub Campus Expert</td>
-      <td>Принимал участие в <a href="https://education.github.com/experts">GitHub Campus Program</a></td>
-    </tr>
-    <tr>
-      <td>
-        <img alt="Светлый значок Security advisory credit" src="https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only">&nbsp;
-        <img alt="Темный значок Security advisory credit" src="https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only">
-        </td>
-      <td class="fw-bold">Security advisory credit</td>
-      <td>Ваши рекомендации по безопасности были приняты в <a href="https://github.com/advisories">GitHub Advisory Database</a></td>
-    </tr>
-</tbody>
-</table>
+| Значок                         | Название                       | Как получить?                                                                                                                                     |
+|--------------------------------|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![][gp-dark] ![][gp-light]     | **Pro**                        | Используйте тарифный план [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)                  |
+| ![][da-dark] ![][da-light]     | **Discussion answered**        | Ваш ответ в дискуссиях был отмечен как правильный                                                                                                 |
+| ![][dpm-dark] ![][dpm-light]   | **Developer Program Member**   | Стань зарегистрированным участником программы [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
+| ![][sbbh-dark] ![][sbbh-light] | **Security Bug Bounty Hunter** | Помогал в поиске уязвимостей на [GitHub Security](https://bounty.github.com/)                                                                     |
+| ![][gce-dark] ![][gce-light]   | **GitHub Campus Expert**       | Принимал участие в [GitHub Campus Program](https://education.github.com/experts)                                                                  |
+| ![][SAC-dark] ![][SAC-light]   | **Security advisory credit**   | Ваши рекомендации по безопасности были приняты в [GitHub Advisory Database](https://github.com/advisories)                                        |
 
-
+<!-- Другие значки на GitHub -->
+[gp-dark]: https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only
+[gp-light]: https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only
+[da-dark]: https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only
+[da-light]: https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-light-mode-only
+[dpm-dark]: https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only
+[dpm-light]: https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only
+[sbbh-dark]: https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only
+[sbbh-light]: https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-light-mode-only
+[gce-dark]: https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only
+[gce-light]: https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only
+[SAC-dark]: https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only
+[SAC-light]: https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only
 
 <br>
 
