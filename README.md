@@ -20,6 +20,13 @@
 |       ![Значок за достижение Heart On Your Sleeve][hoys-default]       | **Heart On Your Sleeve**          | ???                                                                                                                                                                                                                     |
 |           ![Значок за достижение Open Sourcerer][os-default]           | **Open Sourcerer**                | ???                                                                                                                                                                                                                     |
 
+<!-- Значки не имеющие градаций по уровням -->
+[quickdraw]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
+[yolo]: https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png
+[public-sponsor]: https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png
+[mars-2020]: https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png
+[arctic-code-vault]: https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png
+
 <br>
 
 ## Градация некоторых достижений
@@ -44,6 +51,55 @@
 
 Все остальные значки на GitHub даются за однократное выполнение условий.
 
+<!-- Ссылки на изображения значков Starstruck -->
+[ss-default]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
+[ss-bronze]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png
+[ss-silver]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png
+[ss-gold]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png
+
+<!-- Ссылки на примеры достижений Starstruck (разных уровней) -->
+[ss-4096]: https://github.com/torvalds?achievement=starstruck&tab=achievements
+
+<!-- Ссылки на изображения значков Pair Extraordinaire -->
+[pe-default]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png
+[pe-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png
+[pe-silver]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png
+[pe-gold]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png
+
+<!-- Ссылки на примеры достижений Pair Extraordinaire (разных уровней) -->
+[pe-1]: https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements
+[pe-48]: https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements
+
+<!-- Ссылки на изображения значков Pull Shark -->
+[ps-default]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png
+[ps-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png
+[ps-silver]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png
+[ps-gold]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png
+
+<!-- Ссылки на примеры достижений Pull Shark (разных уровней) -->
+[ps-1024]: https://github.com/ljharb?achievement=pull-shark&tab=achievements
+
+<!-- Ссылки на изображения значков Galaxy Brain -->
+[gb-default]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png
+[gb-bronze]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png
+[gb-silver]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png
+[gb-gold]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png
+
+<!-- Ссылки на примеры достижений Galaxy Brain (разных уровней) -->
+[gb-32]: https://github.com/ljharb?achievement=galaxy-brain&tab=achievements
+
+<!-- Ссылки на изображения значков Heart On Your Sleeve -->
+[hoys-default]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png
+[hoys-bronze]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png
+[hoys-silver]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png
+[hoys-gold]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png
+
+<!-- Ссылки на изображения значков Open Sourcerer -->
+[os-default]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png
+[os-bronze]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png
+[os-silver]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png
+[os-gold]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png
+
 <br>
 
 ## Цвет значков и тон Emoji
@@ -54,39 +110,26 @@
 
 <br>
 
-<table class="table table-bordered">
-<thead>
-    <tr>
-      <th scope="col">Название ачивки</th>
-      <th scope="col" class="text-center align-middle">👋</th>
-      <th scope="col" class="text-center align-middle">👋🏻</th>
-      <th scope="col" class="text-center align-middle">👋🏼</th>
-      <th scope="col" class="text-center align-middle">👋🏽</th>
-      <th scope="col" class="text-center align-middle">👋🏾</th>
-      <th scope="col" class="text-center align-middle">👋🏿</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row" class="align-middle">Starstruck</th>
-      <td><img alt="Тон значка Starstruck по-умолчанию" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"></td>
-      <td><img alt="Light тон достижения Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png"></td>
-      <td><img alt="Light-medium тон достижения Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png"></td>
-      <td><img alt="Medium тон достижения Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png"></td>
-      <td><img alt="Medium-dark тон достижения Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png"></td>
-      <td><img alt="Dark тон достижения Starstruck" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png"></td>
-    </tr>
-    <tr>
-      <th scope="row" class="align-middle">Quickdraw</th>
-      <td><img alt="Тон значка Quickdraw по-умолчанию" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png"></td>
-      <td><img alt="Light тон значка Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png"></td>
-      <td><img alt="Light-medium тон значка Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light-medium.png"></td>
-      <td><img alt="Medium тон значка Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium.png"></td>
-      <td><img alt="Medium-dark тон значка Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium-dark.png"></td>
-      <td><img alt="Dark тон значка Quickdraw" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--dark.png"></td>
-    </tr>
-  </tbody>
-</table>
+| **Badge**      |       👋       |     👋🏻     |        👋🏼         |     👋🏽      |        👋🏾        |    👋🏿     |
+|----------------|:--------------:|:------------:|:-------------------:|:-------------:|:------------------:|:-----------:|
+| **Starstruck** | ![][s-default] | ![][s-light] | ![][s-light-medium] | ![][s-medium] | ![][s-medium-dark] | ![][s-dark] |
+| **Quickdraw**  | ![][q-default] | ![][q-light] | ![][q-light-medium] | ![][q-medium] | ![][q-medium-dark] | ![][q-dark] |
+
+<!-- Ссылки на зветовые вариации значков Starstruck -->
+[s-default]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
+[s-light]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png
+[s-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png
+[s-medium]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png
+[s-medium-dark]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png
+[s-dark]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png
+
+<!-- Ссылки на зветовые вариации значков Quickdraw -->
+[q-default]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
+[q-light]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png
+[q-light-medium]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light-medium.png
+[q-medium]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium.png
+[q-medium-dark]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium-dark.png
+[q-dark]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--dark.png
 
 <br>
 
@@ -161,58 +204,3 @@
 Если у вас есть вопросы или предложения как улучшить информацию на этой странице, вы всегда можете написать
 в [issues](https://github.com/github-profile-achievements/russian/issues).
 
-<!-- Значки не имеющие градаций по уровням -->
-[quickdraw]: https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png
-[yolo]: https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png
-[public-sponsor]: https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png
-[mars-2020]: https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png
-[arctic-code-vault]: https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png
-
-<!-- Ссылки на изображения значков Starstruck -->
-[ss-default]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
-[ss-bronze]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png
-[ss-silver]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png
-[ss-gold]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png
-
-<!-- Ссылки на примеры достижений Starstruck (разных уровней) -->
-[ss-4096]: https://github.com/torvalds?achievement=starstruck&tab=achievements
-
-<!-- Ссылки на изображения значков Pair Extraordinaire -->
-[pe-default]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png
-[pe-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png
-[pe-silver]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png
-[pe-gold]: https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png
-
-<!-- Ссылки на примеры достижений Pair Extraordinaire (разных уровней) -->
-[pe-1]: https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements
-[pe-48]: https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements
-
-<!-- Ссылки на изображения значков Pull Shark -->
-[ps-default]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png
-[ps-bronze]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png
-[ps-silver]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png
-[ps-gold]: https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png
-
-<!-- Ссылки на примеры достижений Pull Shark (разных уровней) -->
-[ps-1024]: https://github.com/ljharb?achievement=pull-shark&tab=achievements
-
-<!-- Ссылки на изображения значков Galaxy Brain -->
-[gb-default]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png
-[gb-bronze]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png
-[gb-silver]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png
-[gb-gold]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png
-
-<!-- Ссылки на примеры достижений Galaxy Brain (разных уровней) -->
-[gb-32]: https://github.com/ljharb?achievement=galaxy-brain&tab=achievements
-
-<!-- Ссылки на изображения значков Heart On Your Sleeve -->
-[hoys-default]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png
-[hoys-bronze]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png
-[hoys-silver]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png
-[hoys-gold]: https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png
-
-<!-- Ссылки на изображения значков Open Sourcerer -->
-[os-default]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png
-[os-bronze]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png
-[os-silver]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png
-[os-gold]: https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png
