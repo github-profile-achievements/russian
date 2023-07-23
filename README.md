@@ -151,9 +151,9 @@
 |--------------------------------|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![][gp-dark] ![][gp-light]     | **Pro**                        | Используйте тарифный план [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)                  |
 | ![][da-dark] ![][da-light]     | **Discussion answered**        | Ваш ответ в дискуссиях был отмечен как правильный                                                                                                 |
-| ![][dpm-dark] ![][dpm-light]   | **Developer Program Member**   | Стань зарегистрированным участником программы [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![][sbbh-dark] ![][sbbh-light] | **Security Bug Bounty Hunter** | Помогал в поиске уязвимостей на [GitHub Security](https://bounty.github.com/)                                                                     |
-| ![][gce-dark] ![][gce-light]   | **GitHub Campus Expert**       | Принимал участие в [GitHub Campus Program](https://education.github.com/experts)                                                                  |
+| ![][dpm-dark] ![][dpm-light]   | **Developer Program Member**   | Станьте зарегистрированным участником программы [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
+| ![][sbbh-dark] ![][sbbh-light] | **Security Bug Bounty Hunter** | Помогали в поиске уязвимостей на [GitHub Security](https://bounty.github.com/)                                                                     |
+| ![][gce-dark] ![][gce-light]   | **GitHub Campus Expert**       | Принимали участие в [GitHub Campus Program](https://education.github.com/experts)                                                                  |
 | ![][SAC-dark] ![][SAC-light]   | **Security advisory credit**   | Ваши рекомендации по безопасности были приняты в [GitHub Advisory Database](https://github.com/advisories)                                        |
 
 <!-- Другие значки на GitHub -->
