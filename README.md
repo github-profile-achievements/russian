@@ -1,24 +1,25 @@
 # Полный список значков и достижений на GitHub
 
-Отображение значков достижений в вашем профиле совершенно необязательно. По-умолчанию достижения может видеть любой, кто просматривает ваш общедоступный профиль.
+Отображение значков достижений в вашем профиле совершенно необязательно. <br>
+По-умолчанию достижения может видеть любой, кто просматривает ваш общедоступный профиль.
 
-Вы можете отказаться от отображения достижений в своем профиле, перейдя в [настройки профиля](https://github.com/settings).
+Вы можете отказаться от отображения достижений в своем профиле, перейдя в [Настройки профиля](https://github.com/settings).
 
 <br>
 
-|                                 Значок                                 | Название                          | Как получить?                                                                                                                                                                                                           |
-|:----------------------------------------------------------------------:|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   ![Значок за достижение Heart On Your Sleeve][heart-on-your-sleeve]   | **Heart On Your Sleeve**          | Отреагируйте на что-либо на GitHub с помощью эмодзи ❤️ **(Проходит тестирование)** |
-|         ![Значок за достижение Open Sourcerer][open-sourcerer]         | **Open Sourcerer**                | Вы сделали PR в несколько общедоступных репозиториев и эти PR были смержены **(Проходит тестирование)** |
-|             ![Значок за достижение Starstruck][starstruck]             | **Starstruck**                    | Созданный вами репозиторий должен получить <span class="fw-bold">16 звёзд</span> или больше.                                                                                                                            |
-|              ![Значок за достижение Quickdraw][quickdraw]              | **Quickdraw**                     | Выдаётся, если вы хотя бы один раз закрыли `issue` или смержили `pull request` <span class="fw-bold">в течение 5 минут</span> после открытия.                                                                           |
-|    ![Значок за достижение Pair Extraordinaire][pair-extraordinaire]    | **Pair Extraordinaire**           | Был смёржен один или несколько `pull request`, который вы делали в соавторстве с другими разработчиками.                                                                                                                |
-|             ![Значок за достижение Pull Shark][pull-shark]             | **Pull Shark**                    | Было принято (смержено) два открытых вами `pull request`-а (или больше).                                                                                                                                                |
-|           ![Значок за достижение Galaxy Brain][galaxy-brain]           | **Galaxy Brain**                  | Автор дискуссии принял два (или больше) ваших ответа (нажал `Mark as answer`).                                                                                                                                          |
-|                   ![Значок за достижение YOLO][yolo]                   | **YOLO**                          | Выдаётся, если хотя бы один ваш `pull request` был принят без замечаний (автор не написал ни одного треда и смёржил правки).                                                                                            |
-|         ![Значок за достижение Public Sponsor][public-sponsor]         | **Public Sponsor**                | Выдаётся, если вы хотя бы один раз спонсировали oupensorce-проект или разработчика на GitHub.                                                                                                                           |
-|        ![Значок за достижение Mars 2020 Contributor][mars-2020]        | **Mars 2020 Contributor**         | Сделали вклад в один из репозиториев проекта <a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">Mars 2020 Helicopter Mission</a>. Выдавался за хотя бы 1 случай вклада. *Больше нельзя заработать.* |
-| ![Значок за достижение 2020 GitHub Archive Program][arctic-code-vault] | **Arctic Code Vault Contributor** | Ваш код был включён в программу <a href="https://archiveprogram.github.com">2020 GitHub Archive Program</a>. Выдавался за хотя бы 1 случай вклада. *Больше нельзя заработать.*                                          |
+|                                 Значок                                 | Название                          | Можно получить?                          | Как получить?                                                                                                                                                                                                           |
+|:----------------------------------------------------------------------:|-----------------------------------|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   ![Значок за достижение Heart On Your Sleeve][heart-on-your-sleeve]   | **Heart On Your Sleeve**          | Проходит тестирование | Отреагируйте на что-либо на GitHub с помощью эмодзи ❤️. |
+|         ![Значок за достижение Open Sourcerer][open-sourcerer]         | **Open Sourcerer**                | Проходит тестирование | Вы сделали PR в несколько общедоступных репозиториев и эти PR были смёржены. |
+|             ![Значок за достижение Starstruck][starstruck]             | **Starstruck**                    | Да | Созданный вами репозиторий должен получить <span class="fw-bold">16 звёзд</span> или больше.                                                                                                                            |
+|              ![Значок за достижение Quickdraw][quickdraw]              | **Quickdraw**                     | Да | Выдаётся, если вы хотя бы один раз закрыли `issue` или смёржили `pull request` <span class="fw-bold">в течение 5 минут</span> после открытия.                                                                           |
+|    ![Значок за достижение Pair Extraordinaire][pair-extraordinaire]    | **Pair Extraordinaire**           | Да | Был смёржен один или несколько `pull request`, который вы делали в соавторстве с другими разработчиками.                                                                                                                |
+|             ![Значок за достижение Pull Shark][pull-shark]             | **Pull Shark**                    | Да | Было принято (смёржено) два открытых вами `pull request`-а (или больше).                                                                                                                                                |
+|           ![Значок за достижение Galaxy Brain][galaxy-brain]           | **Galaxy Brain**                  | Да | Автор дискуссии принял два (или больше) ваших ответа (нажал `Mark as answer`).                                                                                                                                          |
+|                   ![Значок за достижение YOLO][yolo]                   | **YOLO**                          | Да | Выдаётся, если хотя бы один ваш `pull request` был принят без замечаний (автор не написал ни одного треда и смёржил правки).                                                                                            |
+|         ![Значок за достижение Public Sponsor][public-sponsor]         | **Public Sponsor**                | Да | Выдаётся, если вы хотя бы один раз спонсировали opensource-проект или разработчика на GitHub.                                                                                                                           |
+|        ![Значок за достижение Mars 2020 Contributor][mars-2020]        | **Mars 2020 Contributor**         | Нет | Сделали вклад в один из репозиториев проекта <a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">Mars 2020 Helicopter Mission</a>. Выдавался за хотя бы 1 случай вклада. |
+| ![Значок за достижение 2020 GitHub Archive Program][arctic-code-vault] | **Arctic Code Vault Contributor** | Нет | Ваш код был включён в программу <a href="https://archiveprogram.github.com">2020 GitHub Archive Program</a>. Выдавался за хотя бы 1 случай вклада.                                       |
 
 <!-- Значки не имеющие градаций по уровням -->
 [starstruck]: https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png
@@ -37,7 +38,7 @@
 
 ## Градация некоторых достижений
 
-Для получения большинства значков необходимо произвести некоторое действие однократно, но в ряде случаем действие
+Для получения большинства значков необходимо произвести некоторое действие однократно, но в ряде случаев действие
 необходимо произвести несколько раз.
 
 | Достижение               |       По-умолчанию        |    Бронзовый     |    Серебряный     |        Золотой        |
@@ -150,9 +151,9 @@
 |--------------------------------|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![][gp-dark] ![][gp-light]     | **Pro**                        | Используйте тарифный план [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)                  |
 | ![][da-dark] ![][da-light]     | **Discussion answered**        | Ваш ответ в дискуссиях был отмечен как правильный                                                                                                 |
-| ![][dpm-dark] ![][dpm-light]   | **Developer Program Member**   | Стань зарегистрированным участником программы [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![][sbbh-dark] ![][sbbh-light] | **Security Bug Bounty Hunter** | Помогал в поиске уязвимостей на [GitHub Security](https://bounty.github.com/)                                                                     |
-| ![][gce-dark] ![][gce-light]   | **GitHub Campus Expert**       | Принимал участие в [GitHub Campus Program](https://education.github.com/experts)                                                                  |
+| ![][dpm-dark] ![][dpm-light]   | **Developer Program Member**   | Станьте зарегистрированным участником программы [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
+| ![][sbbh-dark] ![][sbbh-light] | **Security Bug Bounty Hunter** | Помогали в поиске уязвимостей на [GitHub Security](https://bounty.github.com/)                                                                     |
+| ![][gce-dark] ![][gce-light]   | **GitHub Campus Expert**       | Принимали участие в [GitHub Campus Program](https://education.github.com/experts)                                                                  |
 | ![][SAC-dark] ![][SAC-light]   | **Security advisory credit**   | Ваши рекомендации по безопасности были приняты в [GitHub Advisory Database](https://github.com/advisories)                                        |
 
 <!-- Другие значки на GitHub -->
