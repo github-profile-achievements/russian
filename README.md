@@ -147,14 +147,14 @@
 
 ## Другие значки на GitHub
 
-| Значок                         | Название                       | Как получить?                                                                                                                                     |
-|--------------------------------|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![][gp-dark] ![][gp-light]     | **Pro**                        | Используйте тарифный план [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)                  |
-| ![][da-dark] ![][da-light]     | **Discussion answered**        | Ваш ответ в дискуссиях был отмечен как правильный                                                                                                 |
-| ![][dpm-dark] ![][dpm-light]   | **Developer Program Member**   | Станьте зарегистрированным участником программы [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![][sbbh-dark] ![][sbbh-light] | **Security Bug Bounty Hunter** | Помогали в поиске уязвимостей на [GitHub Security](https://bounty.github.com/)                                                                     |
-| ![][gce-dark] ![][gce-light]   | **GitHub Campus Expert**       | Принимали участие в [GitHub Campus Program](https://education.github.com/experts)                                                                  |
-| ![][SAC-dark] ![][SAC-light]   | **Security advisory credit**   | Ваши рекомендации по безопасности были приняты в [GitHub Advisory Database](https://github.com/advisories)                                        |
+| Значок                         | Название                       | Можно ли получить?             | Как получить?                                                                                                                                     |
+|--------------------------------|--------------------------------|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![][gp-dark] ![][gp-light]     | **Pro**                        | Да                             | Используйте тарифный план [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)                  |                                                                                                 |
+| ![][dpm-dark] ![][dpm-light]   | **Developer Program Member**   | Да                             | Станьте зарегистрированным участником программы [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
+| ![][sbbh-dark] ![][sbbh-light] | **Security Bug Bounty Hunter** | Да                             | Помогали в поиске уязвимостей на [GitHub Security](https://bounty.github.com/)                                                                     |
+| ![][gce-dark] ![][gce-light]   | **GitHub Campus Expert**       | Да                             | Принимали участие в [GitHub Campus Program](https://education.github.com/experts)                                                                  |
+| ![][SAC-dark] ![][SAC-light]   | **Security advisory credit**   | Да                             | Ваши рекомендации по безопасности были приняты в [GitHub Advisory Database](https://github.com/advisories)                                        |
+| ![][da-dark] ![][da-light]     | **Discussion answered**        | Нет                            | Ваш ответ в дискуссиях был отмечен как правильный
 
 <!-- Другие значки на GitHub -->
 [gp-dark]: https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only
