@@ -46,7 +46,7 @@
 | **Starstruck**           |      ![][starstruck]      |   ![][ss-bronze]    |   ![][ss-silver]    |     ![][ss-gold]      |
 |                          |     [16 stars][ss-16]     | [128 stars][ss-128] | [512 stars][ss-512] | [4096 stars][ss-4096] |
 | **Pair Extraordinaire**  | ![][pair-extraordinaire]  |   ![][pe-bronze]    |   ![][pe-silver]    |     ![][pe-gold]      |
-|                          |       [1 PR][pe-1]        |  10 pull requests   |  24 pull requests   |    [48 PR][pe-48]     |
+|                          |       [1 PR][pe-1]        |   [10 PR][pe-10]    |   [24 PR][pe-24]    |    [48 PR][pe-48]     |
 | **Pull Shark**           |      ![][pull-shark]      |   ![][ps-bronze]    |   ![][ps-silver]    |     ![][ps-gold]      |
 |                          |       [2 PR][ps-2]        |  16 pull requests   |  128 pull requests  |  [1024 PR][ps-1024]   |
 | **Galaxy Brain**         |     ![][galaxy-brain]     |   ![][gb-bronze]    |   ![][gb-silver]    |     ![][gb-gold]      |
@@ -76,8 +76,8 @@
 
 <!-- Ссылки на пользователей, получивших достижение Pair Extraordinaire разных уровней -->
 [pe-1]: https://github.com/gomzyakov?achievement=pair-extraordinaire&tab=achievements
-<!-- 10 pull requests - у кого есть? --> 
-<!-- 24 pull requests - у кого есть? -->
+[pe-10]: https://github.com/jecisc?tab=achievements&achievement=pair-extraordinaire
+[pe-24]: https://github.com/37108?achievement=pair-extraordinaire&tab=achievements
 [pe-48]: https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements
 
 <!-- Градации значков Pull Shark -->
