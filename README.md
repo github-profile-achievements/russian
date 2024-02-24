@@ -65,8 +65,8 @@
 
 <!-- Ссылки на пользователей, получивших достижение Starstruck разных уровней -->
 [ss-16]: https://github.com/gomzyakov?achievement=starstruck&tab=achievements
-<!-- 128 stars - у кого есть? -->
-<!-- 512 stars - у кого есть? -->
+[ss-128]: https://github.com/smartschat?achievement=starstruck&tab=achievements
+[ss-512]: https://github.com/nolanlawson?achievement=starstruck&tab=achievements
 [ss-4096]: https://github.com/torvalds?achievement=starstruck&tab=achievements
 
 <!-- Градации значков Pair Extraordinaire -->
