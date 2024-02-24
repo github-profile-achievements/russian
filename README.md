@@ -41,20 +41,20 @@
 Для получения большинства значков необходимо произвести некоторое действие однократно, но в ряде случаев действие
 необходимо произвести несколько раз.
 
-| Достижение               |       По-умолчанию        |    Бронзовый     |    Серебряный     |        Золотой        |
-|:-------------------------|:-------------------------:|:----------------:|:-----------------:|:---------------------:|
-| **Starstruck**           |      ![][starstruck]      |  ![][ss-bronze]  |  ![][ss-silver]   |     ![][ss-gold]      |
-|                          |     [16 stars][ss-16]     |    128 stars     |     512 stars     | [4096 stars][ss-4096] |
-| **Pair Extraordinaire**  | ![][pair-extraordinaire]  |  ![][pe-bronze]  |  ![][pe-silver]   |     ![][pe-gold]      |
-|                          |       [1 PR][pe-1]        | 10 pull requests | 24 pull requests  |    [48 PR][pe-48]     |
-| **Pull Shark**           |      ![][pull-shark]      |  ![][ps-bronze]  |  ![][ps-silver]   |     ![][ps-gold]      |
-|                          |       [2 PR][ps-2]        | 16 pull requests | 128 pull requests |  [1024 PR][ps-1024]   |
-| **Galaxy Brain**         |     ![][galaxy-brain]     |  ![][gb-bronze]  |  ![][gb-silver]   |     ![][gb-gold]      |
-|                          |     [2 answers][gb-2]     |    8 answers     |    16 answers     |  [32 answers][gb-32]  |
-| **Heart On Your Sleeve** | ![][heart-on-your-sleeve] | ![][hoys-bronze] | ![][hoys-silver]  |    ![][hoys-gold]     | 
-|                          |            ???            |       ???        |        ???        |          ???          |
-| **Open Sourcerer**       |    ![][open-sourcerer]    |  ![][os-bronze]  |  ![][os-silver]   |     ![][os-gold]      | 
-|                          |            ???            |       ???        |        ???        |          ???          |
+| Достижение               |       По-умолчанию        |      Бронзовый      |     Серебряный      |        Золотой        |
+|:-------------------------|:-------------------------:|:-------------------:|:-------------------:|:---------------------:|
+| **Starstruck**           |      ![][starstruck]      |   ![][ss-bronze]    |   ![][ss-silver]    |     ![][ss-gold]      |
+|                          |     [16 stars][ss-16]     | [128 stars][ss-128] | [512 stars][ss-512] | [4096 stars][ss-4096] |
+| **Pair Extraordinaire**  | ![][pair-extraordinaire]  |   ![][pe-bronze]    |   ![][pe-silver]    |     ![][pe-gold]      |
+|                          |       [1 PR][pe-1]        |  10 pull requests   |  24 pull requests   |    [48 PR][pe-48]     |
+| **Pull Shark**           |      ![][pull-shark]      |   ![][ps-bronze]    |   ![][ps-silver]    |     ![][ps-gold]      |
+|                          |       [2 PR][ps-2]        |  16 pull requests   |  128 pull requests  |  [1024 PR][ps-1024]   |
+| **Galaxy Brain**         |     ![][galaxy-brain]     |   ![][gb-bronze]    |   ![][gb-silver]    |     ![][gb-gold]      |
+|                          |     [2 answers][gb-2]     |      8 answers      |     16 answers      |  [32 answers][gb-32]  |
+| **Heart On Your Sleeve** | ![][heart-on-your-sleeve] |  ![][hoys-bronze]   |  ![][hoys-silver]   |    ![][hoys-gold]     | 
+|                          |            ???            |         ???         |         ???         |          ???          |
+| **Open Sourcerer**       |    ![][open-sourcerer]    |   ![][os-bronze]    |   ![][os-silver]    |     ![][os-gold]      | 
+|                          |            ???            |         ???         |         ???         |          ???          |
 
 Все остальные значки на GitHub даются за однократное выполнение условий.
 
@@ -65,8 +65,8 @@
 
 <!-- Ссылки на пользователей, получивших достижение Starstruck разных уровней -->
 [ss-16]: https://github.com/gomzyakov?achievement=starstruck&tab=achievements
-<!-- 128 stars - у кого есть? -->
-<!-- 512 stars - у кого есть? -->
+[ss-128]: https://github.com/smartschat?achievement=starstruck&tab=achievements
+[ss-512]: https://github.com/nolanlawson?achievement=starstruck&tab=achievements
 [ss-4096]: https://github.com/torvalds?achievement=starstruck&tab=achievements
 
 <!-- Градации значков Pair Extraordinaire -->
